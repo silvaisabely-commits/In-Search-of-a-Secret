@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"object_chao",
+  "%Name":"Object_colisao_chao",
   "eventList":[],
   "managed":true,
-  "name":"object_chao",
+  "name":"Object_colisao_chao",
   "overriddenProperties":[],
   "parent":{
     "name":"objetos",
     "path":"folders/objetos.yy",
   },
-  "parentObjectId":{
-    "name":"Object_colisao_chao",
-    "path":"objects/Object_colisao_chao/Object_colisao_chao.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sprite_colisao",
-    "path":"sprites/sprite_colisao/sprite_colisao.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

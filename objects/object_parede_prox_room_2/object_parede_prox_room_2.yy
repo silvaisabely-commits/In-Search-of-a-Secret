@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"object_chao",
-  "eventList":[],
+  "%Name":"object_parede_prox_room_2",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"object_assassino","path":"objects/object_assassino/object_assassino.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"object_chao",
+  "name":"object_parede_prox_room_2",
   "overriddenProperties":[],
   "parent":{
     "name":"objetos",
     "path":"folders/objetos.yy",
   },
-  "parentObjectId":{
-    "name":"Object_colisao_chao",
-    "path":"objects/Object_colisao_chao/Object_colisao_chao.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"sprite04_floresta2",
   "bboxMode":0,
-  "bbox_bottom":1079,
+  "bbox_bottom":940,
   "bbox_left":0,
-  "bbox_right":1918,
+  "bbox_right":1671,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"1ac99730-cb8e-4281-8864-ee9543a3b78b","name":"1ac99730-cb8e-4281-8864-ee9543a3b78b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f1fdf1f6-9225-4587-99d6-be1e830e2821","name":"f1fdf1f6-9225-4587-99d6-be1e830e2821","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":1080,
+  "height":941,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"94759c07-f011-41a8-898b-9ebfdbc06310","blendMode":0,"displayName":"default","isLocked":false,"name":"94759c07-f011-41a8-898b-9ebfdbc06310","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"9209dd74-b363-4dde-a61d-8046c8b6acf8","blendMode":0,"displayName":"default","isLocked":false,"name":"9209dd74-b363-4dde-a61d-8046c8b6acf8","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"sprite04_floresta2",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1ac99730-cb8e-4281-8864-ee9543a3b78b","path":"sprites/sprite04_floresta2/sprite04_floresta2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"2c5c1640-50e5-4cf4-a176-110b53b28307","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f1fdf1f6-9225-4587-99d6-be1e830e2821","path":"sprites/sprite04_floresta2/sprite04_floresta2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"65dd9bf8-9709-4b3e-acd7-668433725a7c","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1919,
+  "width":1672,
 }

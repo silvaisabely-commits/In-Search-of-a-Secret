@@ -1,7 +1,7 @@
 {
   "$GMSprite":"v2",
   "%Name":"sprite_assassino",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":87,
   "bbox_left":0,
   "bbox_right":127,
