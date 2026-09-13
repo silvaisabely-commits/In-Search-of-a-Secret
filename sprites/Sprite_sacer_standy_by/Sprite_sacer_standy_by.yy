@@ -27,8 +27,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Sacerdotisa",
-    "path":"folders/sprites/Sacerdotisa.yy",
+    "name":"sacerdotisa",
+    "path":"folders/sprites/sacerdotisa.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
