@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"sprite05_floresta3",
   "bboxMode":0,
-  "bbox_bottom":940,
+  "bbox_bottom":1080,
   "bbox_left":0,
-  "bbox_right":1671,
+  "bbox_right":1920,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":941,
+  "height":1081,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"0777ca07-3ab5-4a07-8ee0-69d4aef51ac4","blendMode":0,"displayName":"default","isLocked":false,"name":"0777ca07-3ab5-4a07-8ee0-69d4aef51ac4","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1672,
+  "width":1921,
 }

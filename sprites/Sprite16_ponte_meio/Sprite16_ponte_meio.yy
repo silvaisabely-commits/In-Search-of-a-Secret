@@ -2,7 +2,7 @@
   "$GMSprite":"v2",
   "%Name":"sprite16_ponte_meio",
   "bboxMode":0,
-  "bbox_bottom":1079,
+  "bbox_bottom":1080,
   "bbox_left":0,
   "bbox_right":1919,
   "bbox_top":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"3d0f8a8a-d56d-4b82-a8b0-4ec7043a7a73","name":"3d0f8a8a-d56d-4b82-a8b0-4ec7043a7a73","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"fbd40638-d9a7-44dd-ab50-20989fecaddb","name":"fbd40638-d9a7-44dd-ab50-20989fecaddb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":1080,
+  "height":1081,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"012d0fe6-ff5f-4a3c-852f-420dd9c926df","blendMode":0,"displayName":"default","isLocked":false,"name":"012d0fe6-ff5f-4a3c-852f-420dd9c926df","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"e8f44a3b-0d13-4bcd-92e8-cc1434573c52","blendMode":0,"displayName":"default","isLocked":false,"name":"e8f44a3b-0d13-4bcd-92e8-cc1434573c52","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"sprite16_ponte_meio",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3d0f8a8a-d56d-4b82-a8b0-4ec7043a7a73","path":"sprites/sprite16_ponte_meio/sprite16_ponte_meio.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"f3d05e4c-f2f3-48c7-bc09-389274ed7d7e","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fbd40638-d9a7-44dd-ab50-20989fecaddb","path":"sprites/sprite16_ponte_meio/sprite16_ponte_meio.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"6ee54a57-f273-43d6-bcf6-eb3d725100f8","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

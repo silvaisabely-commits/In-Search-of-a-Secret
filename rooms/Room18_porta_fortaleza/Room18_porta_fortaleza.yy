@@ -5,10 +5,21 @@
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
-  "instanceCreationOrder":[],
+  "instanceCreationOrder":[
+    {"name":"inst_3671BA85","path":"rooms/Room18_porta_fortaleza/Room18_porta_fortaleza.yy",},
+    {"name":"inst_54583254","path":"rooms/Room18_porta_fortaleza/Room18_porta_fortaleza.yy",},
+    {"name":"inst_31F46303","path":"rooms/Room18_porta_fortaleza/Room18_porta_fortaleza.yy",},
+  ],
   "isDnd":false,
   "layers":[
-    {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
+    {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v4","%Name":"inst_3671BA85","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3671BA85","objectId":{"name":"object_chao","path":"objects/object_chao/object_chao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":30.0,"scaleY":1.0,"x":0.0,"y":640.0,},
+        {"$GMRInstance":"v4","%Name":"inst_54583254","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_54583254","objectId":{"name":"object_chao","path":"objects/object_chao/object_chao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":5.0,"x":-64.0,"y":384.0,},
+        {"$GMRInstance":"v4","%Name":"inst_31F46303","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_31F46303","objectId":{"name":"object_parede_prox_room_2","path":"objects/object_parede_prox_room_2/object_parede_prox_room_2.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"object_parede_prox_room_2","path":"objects/object_parede_prox_room_2/object_parede_prox_room_2.yy",},"propertyId":{"name":"proxima_room","path":"objects/object_parede_prox_room_2/object_parede_prox_room_2.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Room19_fortaleza1",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"object_parede_prox_room_2","path":"objects/object_parede_prox_room_2/object_parede_prox_room_2.yy",},"propertyId":{"name":"spawn_y","path":"objects/object_parede_prox_room_2/object_parede_prox_room_2.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"600",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":3.5,"x":1440.0,"y":416.0,},
+      ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"sprite18_porta_fortaleza","path":"sprites/sprite18_porta_fortaleza/sprite18_porta_fortaleza.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "name":"Room18_porta_fortaleza",

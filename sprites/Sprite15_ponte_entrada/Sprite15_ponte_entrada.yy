@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"Sprite15_ponte_entrada",
   "bboxMode":0,
-  "bbox_bottom":940,
+  "bbox_bottom":1080,
   "bbox_left":0,
-  "bbox_right":1671,
+  "bbox_right":1920,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"e04c4523-65b1-4a00-b8ad-2415de481ddf","name":"e04c4523-65b1-4a00-b8ad-2415de481ddf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"10a4eff4-fb20-488a-aa80-d3674834360c","name":"10a4eff4-fb20-488a-aa80-d3674834360c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":941,
+  "height":1081,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"ab621cea-0906-42a0-91af-2e6d7fed4783","blendMode":0,"displayName":"default","isLocked":false,"name":"ab621cea-0906-42a0-91af-2e6d7fed4783","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"a249007d-2558-48d0-8d0c-e01da30e8da5","blendMode":0,"displayName":"default","isLocked":false,"name":"a249007d-2558-48d0-8d0c-e01da30e8da5","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Sprite15_ponte_entrada",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e04c4523-65b1-4a00-b8ad-2415de481ddf","path":"sprites/Sprite15_ponte_entrada/Sprite15_ponte_entrada.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"a34852ac-3523-41a0-8d83-16de3f887f78","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"10a4eff4-fb20-488a-aa80-d3674834360c","path":"sprites/Sprite15_ponte_entrada/Sprite15_ponte_entrada.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"8456994c-6b0a-4b47-b408-5ca00448aae4","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1672,
+  "width":1921,
 }
