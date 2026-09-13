@@ -29,8 +29,20 @@ var distancia = point_distance(x, y, jogador.x, jogador.y);
 if (morrendo) {
     estado = "morrendo";
 }
+else if (defendendo) {
+    estado = "defendendo";
+}
 else if (distancia <= distancia_atacar) {
-    estado = "atacando";
+
+    // Chance de defender em vez de atacar
+    if (irandom(100) < 15) {
+        defendendo = true;
+        estado = "defendendo";
+    }
+    else {
+        estado = "atacando";
+    }
+
 }
 else if (distancia <= distancia_detectar) {
     estado = "correndo";
@@ -61,14 +73,15 @@ switch (estado) {
             direcao = 1;
         }
 
-        image_xscale = direcao;
+        // Sprite original está virado ao contrário
+        image_xscale = -direcao;
 
-        if (sprite_index != sprite_goblin_caminhando) {
-            sprite_index = sprite_goblin_caminhando;
+        if (sprite_index != sprite_esqueleto3_caminhando) {
+            sprite_index = sprite_esqueleto3_caminhando;
             image_index = 0;
         }
 
-        image_speed = 0.25;
+        image_speed = 1;
 
     break;
 
@@ -87,10 +100,11 @@ switch (estado) {
 
         vel_x = direcao * velocidade_correndo;
 
-        image_xscale = direcao;
+        // Inverte somente o desenho
+        image_xscale = -direcao;
 
-        if (sprite_index != sprite_goblin_correndo) {
-            sprite_index = sprite_goblin_correndo;
+        if (sprite_index != sprite_esqueleto3_correndo) {
+            sprite_index = sprite_esqueleto3_correndo;
             image_index = 0;
         }
 
@@ -113,10 +127,10 @@ switch (estado) {
             direcao = -1;
         }
 
-        image_xscale = direcao;
+        image_xscale = -direcao;
 
-        if (sprite_index != sprite_goblin_atacando) {
-            sprite_index = sprite_goblin_atacando;
+        if (sprite_index != sprite_esqueleto3_atacando) {
+            sprite_index = sprite_esqueleto3_atacando;
             image_index = 0;
             ja_atacou = false;
         }
@@ -124,22 +138,23 @@ switch (estado) {
         image_speed = 1;
 
 
-        // Momento do golpe
+        // Momento em que o golpe acerta
         if (image_index >= 2 && !ja_atacou) {
 
             if (point_distance(x, y, jogador.x, jogador.y)
             <= distancia_atacar + 10) {
-			jogador.vida -= dano;
 
-			jogador.tomando_dano = true;
-			jogador.tempo_dano = 8;
+                jogador.vida -= dano;
 
-			ja_atacou = true;
+                jogador.tomando_dano = true;
+                jogador.tempo_dano = 8;
+
+                ja_atacou = true;
             }
         }
 
 
-        // Reinicia a animação de ataque
+        // Reinicia o ataque
         if (image_index >= image_number - 1) {
 
             ja_atacou = false;
@@ -149,27 +164,58 @@ switch (estado) {
     break;
 
 
-// -------------------------
-// MORRENDO
-// -------------------------
-case "morrendo":
+    // -------------------------
+    // DEFENDENDO
+    // -------------------------
+    case "defendendo":
 
-    vel_x = 0;
+        vel_x = 0;
 
-    // Entra na animação de morte apenas uma vez
-    if (sprite_index != sprite_goblin_morrendo) {
-        sprite_index = sprite_goblin_morrendo;
-        image_index = 0;
+        if (jogador.x > x) {
+            direcao = 1;
+        }
+        else {
+            direcao = -1;
+        }
+
+        image_xscale = -direcao;
+
+        if (sprite_index != sprite_esqueleto3_defendendo) {
+            sprite_index = sprite_esqueleto3_defendendo;
+            image_index = 0;
+        }
+
         image_speed = 1;
-    }
 
-    // Quando a animação terminar, remove o goblin
-    if (image_index >= image_number - 1) {
-        instance_destroy();
-    }
 
-break;
+        // Quando termina a animação de defesa
+        if (image_index >= image_number - 1) {
 
+            defendendo = false;
+            image_index = 0;
+        }
+
+    break;
+
+
+    // -------------------------
+    // MORRENDO
+    // -------------------------
+    case "morrendo":
+
+        vel_x = 0;
+
+        if (sprite_index != sprite_esqueleto3_morrendo) {
+            sprite_index = sprite_esqueleto3_morrendo;
+            image_index = 0;
+            image_speed = 1;
+        }
+
+        if (image_index >= image_number - 1) {
+            instance_destroy();
+        }
+
+    break;
 }
 
 

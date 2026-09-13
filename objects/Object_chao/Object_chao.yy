@@ -10,8 +10,8 @@
     "path":"folders/objetos.yy",
   },
   "parentObjectId":{
-    "name":"Object_colisao_chao",
-    "path":"objects/Object_colisao_chao/Object_colisao_chao.yy",
+    "name":"object_colisao_chao",
+    "path":"objects/object_colisao_chao/object_colisao_chao.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

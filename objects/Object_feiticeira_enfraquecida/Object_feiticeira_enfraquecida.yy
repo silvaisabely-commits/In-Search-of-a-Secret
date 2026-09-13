@@ -1,7 +1,10 @@
 {
   "$GMObject":"",
   "%Name":"object_feiticeira_enfraquecida",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"object_feiticeira_enfraquecida",
   "overriddenProperties":[],
@@ -9,7 +12,10 @@
     "name":"objetos",
     "path":"folders/objetos.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"object_inimigo",
+    "path":"objects/object_inimigo/object_inimigo.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

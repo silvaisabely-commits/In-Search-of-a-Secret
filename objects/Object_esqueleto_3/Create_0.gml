@@ -1,57 +1,55 @@
+event_inherited();
+
 // =====================================
-// MOVIMENTO
+// ESQUELETO 3 - CONFIGURAÇÕES
 // =====================================
 
+// Movimento
 vel_x = 0;
 vel_y = 0;
 
-velocidade = 4;
-forca_pulo = -10;
-gravidade = 0.5;
+velocidade_andando = 0.8;
+velocidade_correndo = 2;
 
-velocidade_max_queda = 12;
-
-altura_degrau = 8;
+gravidade = 0.4;
+velocidade_max_queda = 8;
 
 
 // =====================================
-// VIDA
+// DISTÂNCIAS
 // =====================================
 
-vida_max = 15;
-vida = vida_max;
-
-
-// =====================================
-// SPRITE / COLISÃO
-// =====================================
-
-mask_index = sprite_assassino;
-
-image_speed = 0.15;
+distancia_detectar = 200;
+distancia_atacar = 40;
 
 
 // =====================================
-// COMBATE
+// PATRULHA
 // =====================================
 
-atacando = false;
+x_inicial = x;
+distancia_patrulha = 140;
 
-dano = 3;
-
-ja_acertou = false;
-
-
-// =====================================
-// DANO RECEBIDO
-// =====================================
-
-tomando_dano = false;
-tempo_dano = 0;
+direcao = 1;
 
 
 // =====================================
-// MORTE
+// DEFESA
 // =====================================
 
-morrendo = false;
+defendendo = false;
+
+
+// =====================================
+// ESTADO INICIAL
+// =====================================
+
+estado = "patrulhando";
+
+
+// =====================================
+// SPRITE INICIAL
+// =====================================
+
+sprite_index = sprite_esqueleto3_parado;
+image_speed = 1;

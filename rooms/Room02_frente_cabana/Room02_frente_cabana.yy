@@ -10,7 +10,7 @@
     {"name":"inst_2AFCFA87","path":"rooms/Room02_frente_cabana/Room02_frente_cabana.yy",},
     {"name":"inst_3DBE9B61","path":"rooms/Room02_frente_cabana/Room02_frente_cabana.yy",},
     {"name":"inst_68FE7EA7","path":"rooms/Room02_frente_cabana/Room02_frente_cabana.yy",},
-    {"name":"inst_67229410","path":"rooms/Room02_frente_cabana/Room02_frente_cabana.yy",},
+    {"name":"inst_6E8FA685","path":"rooms/Room02_frente_cabana/Room02_frente_cabana.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -21,8 +21,8 @@
         {"$GMRInstance":"v4","%Name":"inst_68FE7EA7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_68FE7EA7","objectId":{"name":"object_parede_prox_room_2","path":"objects/object_parede_prox_room_2/object_parede_prox_room_2.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"object_parede_prox_room_2","path":"objects/object_parede_prox_room_2/object_parede_prox_room_2.yy",},"propertyId":{"name":"proxima_room","path":"objects/object_parede_prox_room_2/object_parede_prox_room_2.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Room03_floresta1",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"object_parede_prox_room_2","path":"objects/object_parede_prox_room_2/object_parede_prox_room_2.yy",},"propertyId":{"name":"spawn_y","path":"objects/object_parede_prox_room_2/object_parede_prox_room_2.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"750",},
-          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":5.3046875,"x":2030.0,"y":522.5,},
-        {"$GMRInstance":"v4","%Name":"inst_67229410","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_67229410","objectId":{"name":"object_goblin","path":"objects/object_goblin/object_goblin.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1657.0,"y":657.5,},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":5.3046875,"x":1943.0,"y":522.5,},
+        {"$GMRInstance":"v4","%Name":"inst_6E8FA685","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6E8FA685","objectId":{"name":"object_feiticeira_poder_total","path":"objects/object_feiticeira_poder_total/object_feiticeira_poder_total.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1554.0,"y":699.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"sprite02_frente_cabana","path":"sprites/sprite02_frente_cabana/sprite02_frente_cabana.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

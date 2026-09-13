@@ -1,57 +1,55 @@
+event_inherited();
+
 // =====================================
-// MOVIMENTO
+// GUARDIÃO - CONFIGURAÇÕES
+// =====================================
+
+// Vida
+vida = 8;
+vida_max = 8;
+
+// Dano
+dano = 2;
+
+
+// =====================================
+// MOVIMENTO / GRAVIDADE
 // =====================================
 
 vel_x = 0;
 vel_y = 0;
 
-velocidade = 4;
-forca_pulo = -10;
-gravidade = 0.5;
-
-velocidade_max_queda = 12;
-
-altura_degrau = 8;
-
-
-// =====================================
-// VIDA
-// =====================================
-
-vida_max = 15;
-vida = vida_max;
-
-
-// =====================================
-// SPRITE / COLISÃO
-// =====================================
-
-mask_index = sprite_assassino;
-
-image_speed = 0.15;
+gravidade = 0.4;
+velocidade_max_queda = 8;
 
 
 // =====================================
 // COMBATE
 // =====================================
 
-atacando = false;
+distancia_detectar = 180;
+distancia_atacar = 75;
 
-dano = 3;
-
-ja_acertou = false;
-
-
-// =====================================
-// DANO RECEBIDO
-// =====================================
-
-tomando_dano = false;
-tempo_dano = 0;
+estado = "parado";
 
 
 // =====================================
-// MORTE
+// DIREÇÃO
 // =====================================
 
-morrendo = false;
+direcao = 1;
+
+
+// =====================================
+// SPRITE
+// =====================================
+
+sprite_index = sprite_guardiao_parado;
+image_speed = 1;
+
+
+// =====================================
+// MÁSCARA FIXA
+// =====================================
+
+mask_index = sprite_guardiao_parado;

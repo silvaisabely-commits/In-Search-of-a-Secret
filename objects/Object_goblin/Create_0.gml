@@ -1,3 +1,5 @@
+event_inherited();
+
 // =====================================
 // GOBLIN - CONFIGURAÇÕES
 // =====================================
@@ -11,10 +13,6 @@ velocidade_correndo = 2.5;
 
 gravidade = 0.4;
 velocidade_max_queda = 8;
-
-
-// Vida
-vida = 3;
 
 
 // Distâncias
@@ -36,13 +34,3 @@ estado = "patrulhando";
 // Sprite inicial
 sprite_index = sprite_goblin_parado;
 image_speed = 0.15;
-
-// =====================================
-// COMBATE
-// =====================================
-
-dano = 1;
-
-// Impede causar dano várias vezes
-// durante a mesma animação
-ja_atacou = false;

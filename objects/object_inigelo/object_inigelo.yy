@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"object_colisao_chao",
+  "%Name":"object_inigelo",
   "eventList":[],
   "managed":true,
-  "name":"object_colisao_chao",
+  "name":"object_inigelo",
   "overriddenProperties":[],
   "parent":{
     "name":"objetos",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprite_inimigo_gelo_parado",
+    "path":"sprites/sprite_inimigo_gelo_parado/sprite_inimigo_gelo_parado.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
