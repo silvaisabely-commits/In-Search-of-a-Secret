@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object_sacerdotisa",
+  "%Name":"object_sacerdotisa",
   "eventList":[],
   "managed":true,
-  "name":"Object_sacerdotisa",
+  "name":"object_sacerdotisa",
   "overriddenProperties":[],
   "parent":{
     "name":"objetos",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprite_sacer_parada",
+    "path":"sprites/sprite_sacer_parada/sprite_sacer_parada.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

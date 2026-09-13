@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Sprite_sacer_rodeada",
+  "%Name":"sprite_sacer_rodeada",
   "bboxMode":0,
   "bbox_bottom":104,
   "bbox_left":0,
@@ -27,7 +27,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"f9bc0237-cf33-4209-a048-eedd4d1d1c20","blendMode":0,"displayName":"default","isLocked":false,"name":"f9bc0237-cf33-4209-a048-eedd4d1d1c20","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite_sacer_rodeada",
+  "name":"sprite_sacer_rodeada",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -39,7 +39,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Sprite_sacer_rodeada",
+    "%Name":"sprite_sacer_rodeada",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -63,7 +63,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite_sacer_rodeada",
+    "name":"sprite_sacer_rodeada",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -75,25 +75,25 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1ef60bb4-e776-4b9c-af4b-ae78212dbc1b","path":"sprites/Sprite_sacer_rodeada/Sprite_sacer_rodeada.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1ef60bb4-e776-4b9c-af4b-ae78212dbc1b","path":"sprites/sprite_sacer_rodeada/sprite_sacer_rodeada.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"1d7740cb-d596-49da-b77e-946be9f8ee16","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3cb873bf-4312-4c49-8b58-e25af6bf9d06","path":"sprites/Sprite_sacer_rodeada/Sprite_sacer_rodeada.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3cb873bf-4312-4c49-8b58-e25af6bf9d06","path":"sprites/sprite_sacer_rodeada/sprite_sacer_rodeada.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"2f16e5a4-86c1-4678-8b14-3ecc149e309a","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fe3430e5-4610-44c2-8d7d-4b1e54b29a03","path":"sprites/Sprite_sacer_rodeada/Sprite_sacer_rodeada.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fe3430e5-4610-44c2-8d7d-4b1e54b29a03","path":"sprites/sprite_sacer_rodeada/sprite_sacer_rodeada.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"c4349e37-feff-4cdc-ba26-ca3bb63dcc3c","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8522c480-57be-4a72-be93-7fcbd5e315cb","path":"sprites/Sprite_sacer_rodeada/Sprite_sacer_rodeada.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8522c480-57be-4a72-be93-7fcbd5e315cb","path":"sprites/sprite_sacer_rodeada/sprite_sacer_rodeada.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"5c5751ba-1b78-4329-a26e-5fa5eed44cdc","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"72416c5e-7aae-4c9e-beac-5d73b12678db","path":"sprites/Sprite_sacer_rodeada/Sprite_sacer_rodeada.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"72416c5e-7aae-4c9e-beac-5d73b12678db","path":"sprites/sprite_sacer_rodeada/sprite_sacer_rodeada.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"cd387218-6e98-4367-893c-0d4e54b0c9cb","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8aa76a15-9252-4913-a2c8-005061ac73a2","path":"sprites/Sprite_sacer_rodeada/Sprite_sacer_rodeada.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8aa76a15-9252-4913-a2c8-005061ac73a2","path":"sprites/sprite_sacer_rodeada/sprite_sacer_rodeada.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"f68b8b12-5b3c-4a8e-87dc-be5b3af6a59c","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ca1f4ae8-fa06-419f-9516-9520dc1a0e2c","path":"sprites/Sprite_sacer_rodeada/Sprite_sacer_rodeada.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ca1f4ae8-fa06-419f-9516-9520dc1a0e2c","path":"sprites/sprite_sacer_rodeada/sprite_sacer_rodeada.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"3ccabf01-39d1-4fc0-af81-108b3cd98405","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Sprite09_interior_casa_sacerdotisa",
+  "%Name":"sprite09_interior_casa_sacerdotisa",
   "bboxMode":0,
   "bbox_bottom":1079,
   "bbox_left":0,
@@ -21,7 +21,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"14bd0c2d-a4ca-4fdc-8124-5a916c17fc19","blendMode":0,"displayName":"default","isLocked":false,"name":"14bd0c2d-a4ca-4fdc-8124-5a916c17fc19","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite09_interior_casa_sacerdotisa",
+  "name":"sprite09_interior_casa_sacerdotisa",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Sprite09_interior_casa_sacerdotisa",
+    "%Name":"sprite09_interior_casa_sacerdotisa",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite09_interior_casa_sacerdotisa",
+    "name":"sprite09_interior_casa_sacerdotisa",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,7 +69,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c60c5672-b896-4b05-81fb-6aa004411538","path":"sprites/Sprite09_interior_casa_sacerdotisa/Sprite09_interior_casa_sacerdotisa.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c60c5672-b896-4b05-81fb-6aa004411538","path":"sprites/sprite09_interior_casa_sacerdotisa/sprite09_interior_casa_sacerdotisa.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"5ad53eaf-ba2f-4be1-b328-f9897c3e2d56","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

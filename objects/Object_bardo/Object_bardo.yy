@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object_bardo",
+  "%Name":"object_bardo",
   "eventList":[],
   "managed":true,
-  "name":"Object_bardo",
+  "name":"object_bardo",
   "overriddenProperties":[],
   "parent":{
     "name":"objetos",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprite_bardo_parado",
+    "path":"sprites/sprite_bardo_parado/sprite_bardo_parado.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Sprite_inimigo_gelo_ataque",
+  "%Name":"sprite_inimigo_gelo_ataque",
   "bboxMode":0,
   "bbox_bottom":102,
   "bbox_left":0,
@@ -28,7 +28,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"2e56dcdc-67df-4264-be01-cf2c71d55dc4","blendMode":0,"displayName":"default","isLocked":false,"name":"2e56dcdc-67df-4264-be01-cf2c71d55dc4","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite_inimigo_gelo_ataque",
+  "name":"sprite_inimigo_gelo_ataque",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -40,7 +40,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Sprite_inimigo_gelo_ataque",
+    "%Name":"sprite_inimigo_gelo_ataque",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -64,7 +64,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite_inimigo_gelo_ataque",
+    "name":"sprite_inimigo_gelo_ataque",
     "playback":1,
     "playbackSpeed":3.0,
     "playbackSpeedType":0,
@@ -76,28 +76,28 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c928195a-672f-41ac-b48b-326fcc7ac06c","path":"sprites/Sprite_inimigo_gelo_ataque/Sprite_inimigo_gelo_ataque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c928195a-672f-41ac-b48b-326fcc7ac06c","path":"sprites/sprite_inimigo_gelo_ataque/sprite_inimigo_gelo_ataque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"1be7d0b4-ce36-4f38-b201-98b1258997d1","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0aacccc4-cb72-4064-8577-7386b1d30ff1","path":"sprites/Sprite_inimigo_gelo_ataque/Sprite_inimigo_gelo_ataque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0aacccc4-cb72-4064-8577-7386b1d30ff1","path":"sprites/sprite_inimigo_gelo_ataque/sprite_inimigo_gelo_ataque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"2111f969-d4bd-462d-8762-6d14143e0406","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9b36fbe8-beef-42f9-996f-d9a03ae60861","path":"sprites/Sprite_inimigo_gelo_ataque/Sprite_inimigo_gelo_ataque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9b36fbe8-beef-42f9-996f-d9a03ae60861","path":"sprites/sprite_inimigo_gelo_ataque/sprite_inimigo_gelo_ataque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"df04ca9b-c8cf-4c5a-8950-20d9bb465d14","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8dd32c4e-ee1b-4115-bf62-d56725cbda79","path":"sprites/Sprite_inimigo_gelo_ataque/Sprite_inimigo_gelo_ataque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8dd32c4e-ee1b-4115-bf62-d56725cbda79","path":"sprites/sprite_inimigo_gelo_ataque/sprite_inimigo_gelo_ataque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"969ed8f1-4f7f-4104-abf8-8f1c45e26f11","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"50a2ea1d-6d54-434c-b971-b749daf3edcb","path":"sprites/Sprite_inimigo_gelo_ataque/Sprite_inimigo_gelo_ataque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"50a2ea1d-6d54-434c-b971-b749daf3edcb","path":"sprites/sprite_inimigo_gelo_ataque/sprite_inimigo_gelo_ataque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"97c5be2d-641c-413b-9580-a1e6ac7641c5","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c8af7fe2-e92d-4698-9336-bc0c5c270365","path":"sprites/Sprite_inimigo_gelo_ataque/Sprite_inimigo_gelo_ataque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c8af7fe2-e92d-4698-9336-bc0c5c270365","path":"sprites/sprite_inimigo_gelo_ataque/sprite_inimigo_gelo_ataque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"acd02ca2-e5d1-4502-9b91-7f5084277d71","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5e0bf159-3cad-4f80-90be-f9b9b855f04a","path":"sprites/Sprite_inimigo_gelo_ataque/Sprite_inimigo_gelo_ataque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5e0bf159-3cad-4f80-90be-f9b9b855f04a","path":"sprites/sprite_inimigo_gelo_ataque/sprite_inimigo_gelo_ataque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"c8b900fa-c203-4c64-865d-5ade37d622c2","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bee2464e-ebf2-4209-8ea2-35175c68ed95","path":"sprites/Sprite_inimigo_gelo_ataque/Sprite_inimigo_gelo_ataque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bee2464e-ebf2-4209-8ea2-35175c68ed95","path":"sprites/sprite_inimigo_gelo_ataque/sprite_inimigo_gelo_ataque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"8c5532ed-0218-4aea-b8bc-10fdc4a0aa86","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

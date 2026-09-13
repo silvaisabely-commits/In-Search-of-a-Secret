@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Sprite_boos_globin_morrendo",
+  "%Name":"sprite_boos_globin_morrendo",
   "bboxMode":0,
   "bbox_bottom":160,
   "bbox_left":0,
@@ -26,7 +26,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"060834e8-2489-4229-9389-878b28253f67","blendMode":0,"displayName":"default","isLocked":false,"name":"060834e8-2489-4229-9389-878b28253f67","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite_boos_globin_morrendo",
+  "name":"sprite_boos_globin_morrendo",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -38,7 +38,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Sprite_boos_globin_morrendo",
+    "%Name":"sprite_boos_globin_morrendo",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -62,7 +62,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite_boos_globin_morrendo",
+    "name":"sprite_boos_globin_morrendo",
     "playback":1,
     "playbackSpeed":3.0,
     "playbackSpeedType":0,
@@ -74,22 +74,22 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bf370dcc-2c98-4e9e-ba4a-4944ac5bbcb6","path":"sprites/Sprite_boos_globin_morrendo/Sprite_boos_globin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bf370dcc-2c98-4e9e-ba4a-4944ac5bbcb6","path":"sprites/sprite_boos_globin_morrendo/sprite_boos_globin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"9a793966-bd47-47c9-8365-18c2a2e2f7eb","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9f564733-9030-4cce-b905-b9a5d43a34c9","path":"sprites/Sprite_boos_globin_morrendo/Sprite_boos_globin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9f564733-9030-4cce-b905-b9a5d43a34c9","path":"sprites/sprite_boos_globin_morrendo/sprite_boos_globin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"fa819ce3-0115-4b8e-8b27-c45dc0947d49","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"82cb24bd-f665-416c-b589-a060a1719ad9","path":"sprites/Sprite_boos_globin_morrendo/Sprite_boos_globin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"82cb24bd-f665-416c-b589-a060a1719ad9","path":"sprites/sprite_boos_globin_morrendo/sprite_boos_globin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"bb99b193-742f-4fd0-9ce6-547cd8ab3f38","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2deb5619-0f2a-4f02-96c1-7a9ddaf5fabb","path":"sprites/Sprite_boos_globin_morrendo/Sprite_boos_globin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2deb5619-0f2a-4f02-96c1-7a9ddaf5fabb","path":"sprites/sprite_boos_globin_morrendo/sprite_boos_globin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"3e398683-2720-4484-8cf7-171ffdf93ede","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4f5d7a48-abce-479c-a14e-5a0df4638e72","path":"sprites/Sprite_boos_globin_morrendo/Sprite_boos_globin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4f5d7a48-abce-479c-a14e-5a0df4638e72","path":"sprites/sprite_boos_globin_morrendo/sprite_boos_globin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"fe10de64-6006-4fba-aacb-5bda496b2587","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5a7991ec-1658-4bea-bb92-e33e0a069f91","path":"sprites/Sprite_boos_globin_morrendo/Sprite_boos_globin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5a7991ec-1658-4bea-bb92-e33e0a069f91","path":"sprites/sprite_boos_globin_morrendo/sprite_boos_globin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"6e75aa5f-5b0d-4b54-a5ac-f16873c769ab","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

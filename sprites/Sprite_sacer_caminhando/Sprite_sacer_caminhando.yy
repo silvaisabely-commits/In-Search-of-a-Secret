@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Sprite_sacer_caminhando",
+  "%Name":"sprite_sacer_caminhando",
   "bboxMode":0,
   "bbox_bottom":113,
   "bbox_left":0,
@@ -26,7 +26,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"e7bfcc34-abe7-4ab4-87a5-1f3a557fdf63","blendMode":0,"displayName":"default","isLocked":false,"name":"e7bfcc34-abe7-4ab4-87a5-1f3a557fdf63","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite_sacer_caminhando",
+  "name":"sprite_sacer_caminhando",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -38,7 +38,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Sprite_sacer_caminhando",
+    "%Name":"sprite_sacer_caminhando",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -62,7 +62,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite_sacer_caminhando",
+    "name":"sprite_sacer_caminhando",
     "playback":1,
     "playbackSpeed":5.0,
     "playbackSpeedType":0,
@@ -74,22 +74,22 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ae6ddab4-4a3d-45fa-8aa7-c1f85a7c3649","path":"sprites/Sprite_sacer_caminhando/Sprite_sacer_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ae6ddab4-4a3d-45fa-8aa7-c1f85a7c3649","path":"sprites/sprite_sacer_caminhando/sprite_sacer_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"e2d801bb-229a-4cb5-b4e2-c0c82529d0d8","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ca52a16d-4dee-42f3-82ed-d0342a75a27c","path":"sprites/Sprite_sacer_caminhando/Sprite_sacer_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ca52a16d-4dee-42f3-82ed-d0342a75a27c","path":"sprites/sprite_sacer_caminhando/sprite_sacer_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"fc4ac3da-54c3-4abd-a453-bccae5744030","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"661fd999-df6e-4768-b5d5-619950408deb","path":"sprites/Sprite_sacer_caminhando/Sprite_sacer_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"661fd999-df6e-4768-b5d5-619950408deb","path":"sprites/sprite_sacer_caminhando/sprite_sacer_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"5b3d1e39-831c-4676-9e5f-8b4129889ed3","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b849837d-9390-42c2-b51c-4dca80c46258","path":"sprites/Sprite_sacer_caminhando/Sprite_sacer_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b849837d-9390-42c2-b51c-4dca80c46258","path":"sprites/sprite_sacer_caminhando/sprite_sacer_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"b2d6c466-ad25-42ef-b151-12b7c0c1bb20","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0a854bb1-599d-4b4f-a404-6b214b06050e","path":"sprites/Sprite_sacer_caminhando/Sprite_sacer_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0a854bb1-599d-4b4f-a404-6b214b06050e","path":"sprites/sprite_sacer_caminhando/sprite_sacer_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"e7437435-ea61-459e-bb71-2046a2e8c594","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3d7bf2f2-a308-494a-a3e6-38fafb60a94f","path":"sprites/Sprite_sacer_caminhando/Sprite_sacer_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3d7bf2f2-a308-494a-a3e6-38fafb60a94f","path":"sprites/sprite_sacer_caminhando/sprite_sacer_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"5835d05e-eb1e-4fe1-ad7b-5bfc2aae0f9c","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

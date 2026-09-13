@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Sprite_esqueleto3_correndo",
+  "%Name":"sprite_esqueleto3_correndo",
   "bboxMode":0,
   "bbox_bottom":112,
   "bbox_left":0,
@@ -26,7 +26,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"9a49396b-fd6c-40a5-96d9-c8941ed56030","blendMode":0,"displayName":"default","isLocked":false,"name":"9a49396b-fd6c-40a5-96d9-c8941ed56030","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite_esqueleto3_correndo",
+  "name":"sprite_esqueleto3_correndo",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -38,7 +38,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Sprite_esqueleto3_correndo",
+    "%Name":"sprite_esqueleto3_correndo",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -62,7 +62,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite_esqueleto3_correndo",
+    "name":"sprite_esqueleto3_correndo",
     "playback":1,
     "playbackSpeed":2.0,
     "playbackSpeedType":0,
@@ -74,22 +74,22 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4c2edc99-aa3c-4e93-acd6-235476ff0873","path":"sprites/Sprite_esqueleto3_correndo/Sprite_esqueleto3_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4c2edc99-aa3c-4e93-acd6-235476ff0873","path":"sprites/sprite_esqueleto3_correndo/sprite_esqueleto3_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"74483959-b97a-4d7f-a63c-779aeb80c83a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d8464500-27ed-4977-9bd3-428ea82e43c3","path":"sprites/Sprite_esqueleto3_correndo/Sprite_esqueleto3_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d8464500-27ed-4977-9bd3-428ea82e43c3","path":"sprites/sprite_esqueleto3_correndo/sprite_esqueleto3_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"d9f1db3a-05df-4dc7-9cc9-cda250e885d5","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3e307df6-8161-40d4-a7e8-8f539649553b","path":"sprites/Sprite_esqueleto3_correndo/Sprite_esqueleto3_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3e307df6-8161-40d4-a7e8-8f539649553b","path":"sprites/sprite_esqueleto3_correndo/sprite_esqueleto3_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"c1aa516e-afe5-48d8-a47d-beece6d4f506","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"32ac3233-9c58-40a3-abac-378bae0aa786","path":"sprites/Sprite_esqueleto3_correndo/Sprite_esqueleto3_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"32ac3233-9c58-40a3-abac-378bae0aa786","path":"sprites/sprite_esqueleto3_correndo/sprite_esqueleto3_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"6ba133ab-79ed-45de-8956-ac27b80bea89","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a8ae7970-e79c-4991-8dcc-f40c7d03215a","path":"sprites/Sprite_esqueleto3_correndo/Sprite_esqueleto3_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a8ae7970-e79c-4991-8dcc-f40c7d03215a","path":"sprites/sprite_esqueleto3_correndo/sprite_esqueleto3_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"d6cf4306-8be0-40d5-8f11-a238cca9cba2","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"24fdb453-e200-4d23-aebc-6d219ed546bc","path":"sprites/Sprite_esqueleto3_correndo/Sprite_esqueleto3_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"24fdb453-e200-4d23-aebc-6d219ed546bc","path":"sprites/sprite_esqueleto3_correndo/sprite_esqueleto3_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"d33963bc-97bf-42c1-b624-d0bf590460e4","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

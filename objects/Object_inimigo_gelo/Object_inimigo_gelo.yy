@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object_inimigo_gelo",
+  "%Name":"object_inimigo_gelo",
   "eventList":[],
   "managed":true,
-  "name":"Object_inimigo_gelo",
+  "name":"object_inimigo_gelo",
   "overriddenProperties":[],
   "parent":{
     "name":"objetos",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprite_inimigo_gelo_parado",
+    "path":"sprites/sprite_inimigo_gelo_parado/sprite_inimigo_gelo_parado.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

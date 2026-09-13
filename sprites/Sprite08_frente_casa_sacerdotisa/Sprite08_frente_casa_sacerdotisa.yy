@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Sprite08_frente_casa_sacerdotisa",
+  "%Name":"sprite08_frente_casa_sacerdotisa",
   "bboxMode":0,
   "bbox_bottom":1080,
   "bbox_left":0,
@@ -21,7 +21,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"2b15d1d2-da15-44f4-ab3d-4f2ddd535262","blendMode":0,"displayName":"default","isLocked":false,"name":"2b15d1d2-da15-44f4-ab3d-4f2ddd535262","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite08_frente_casa_sacerdotisa",
+  "name":"sprite08_frente_casa_sacerdotisa",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Sprite08_frente_casa_sacerdotisa",
+    "%Name":"sprite08_frente_casa_sacerdotisa",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite08_frente_casa_sacerdotisa",
+    "name":"sprite08_frente_casa_sacerdotisa",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,7 +69,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"247948be-fa20-4f79-98df-9a7e78a960b6","path":"sprites/Sprite08_frente_casa_sacerdotisa/Sprite08_frente_casa_sacerdotisa.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"247948be-fa20-4f79-98df-9a7e78a960b6","path":"sprites/sprite08_frente_casa_sacerdotisa/sprite08_frente_casa_sacerdotisa.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"f26622d4-9cba-4d9f-8be8-6791f63d37c7","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

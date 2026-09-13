@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object_boos_goblin",
+  "%Name":"object_boos_goblin",
   "eventList":[],
   "managed":true,
-  "name":"Object_boos_goblin",
+  "name":"object_boos_goblin",
   "overriddenProperties":[],
   "parent":{
     "name":"objetos",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprite_boos_globin_parado",
+    "path":"sprites/sprite_boos_globin_parado/sprite_boos_globin_parado.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

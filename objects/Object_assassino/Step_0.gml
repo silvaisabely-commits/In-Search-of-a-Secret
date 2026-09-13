@@ -22,7 +22,7 @@ if (vel_x < 0) {
 // VERIFICA SE ESTÁ NO CHÃO
 // =====================================
 
-var no_chao = place_meeting(x, y + 1, Object_chao);
+var no_chao = place_meeting(x, y + 1, object_chao);
 
 
 // =====================================
@@ -48,9 +48,9 @@ vel_y = min(vel_y, velocidade_max_queda);
 // COLISÃO HORIZONTAL
 // =====================================
 
-if (place_meeting(x + vel_x, y, Object_chao)) {
+if (place_meeting(x + vel_x, y, object_chao)) {
 
-    while (!place_meeting(x + sign(vel_x), y, Object_chao)) {
+    while (!place_meeting(x + sign(vel_x), y, object_chao)) {
         x += sign(vel_x);
     }
 
@@ -64,9 +64,9 @@ x += vel_x;
 // COLISÃO VERTICAL
 // =====================================
 
-if (place_meeting(x, y + vel_y, Object_chao)) {
+if (place_meeting(x, y + vel_y, object_chao)) {
 
-    while (!place_meeting(x, y + sign(vel_y), Object_chao)) {
+    while (!place_meeting(x, y + sign(vel_y), object_chao)) {
         y += sign(vel_y);
     }
 
@@ -77,7 +77,7 @@ y += vel_y;
 
 
 // Atualiza depois da movimentação
-no_chao = place_meeting(x, y + 1, Object_chao);
+no_chao = place_meeting(x, y + 1, object_chao);
 
 
 // =====================================
@@ -94,9 +94,10 @@ if (!no_chao) {
 }
 else if (vel_x != 0) {
 
-    if (sprite_index != sprite_assassino_andando) {
-        sprite_index = sprite_assassino_andando;
+    if (sprite_index != sprite_assassino_correndo) {
+        sprite_index = sprite_assassino_correndo;
         image_index = 0;
+		image_speed = 0.3;
     }
 
 }

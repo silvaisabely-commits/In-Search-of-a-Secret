@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object_feiticeira_enfraquecida",
+  "%Name":"object_feiticeira_enfraquecida",
   "eventList":[],
   "managed":true,
-  "name":"Object_feiticeira_enfraquecida",
+  "name":"object_feiticeira_enfraquecida",
   "overriddenProperties":[],
   "parent":{
     "name":"objetos",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprite_feiticeira_enfraq_parada",
+    "path":"sprites/sprite_feiticeira_enfraq_parada/sprite_feiticeira_enfraq_parada.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

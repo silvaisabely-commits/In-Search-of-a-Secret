@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object_inicristal",
+  "%Name":"object_inicristal",
   "eventList":[],
   "managed":true,
-  "name":"Object_inicristal",
+  "name":"object_inicristal",
   "overriddenProperties":[],
   "parent":{
     "name":"objetos",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprite_inicristal_parado",
+    "path":"sprites/sprite_inicristal_parado/sprite_inicristal_parado.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

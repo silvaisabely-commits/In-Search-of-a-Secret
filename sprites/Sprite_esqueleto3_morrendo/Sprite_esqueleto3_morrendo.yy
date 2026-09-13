@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Sprite_esqueleto3_morrendo",
+  "%Name":"sprite_esqueleto3_morrendo",
   "bboxMode":0,
   "bbox_bottom":121,
   "bbox_left":0,
@@ -27,7 +27,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"601a2b68-630a-4d63-b768-d7c5869149e1","blendMode":0,"displayName":"default","isLocked":false,"name":"601a2b68-630a-4d63-b768-d7c5869149e1","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite_esqueleto3_morrendo",
+  "name":"sprite_esqueleto3_morrendo",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -39,7 +39,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Sprite_esqueleto3_morrendo",
+    "%Name":"sprite_esqueleto3_morrendo",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -63,7 +63,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite_esqueleto3_morrendo",
+    "name":"sprite_esqueleto3_morrendo",
     "playback":1,
     "playbackSpeed":3.0,
     "playbackSpeedType":0,
@@ -75,25 +75,25 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"53d8f672-a0ed-44b6-96e3-da0c7c86c8d3","path":"sprites/Sprite_esqueleto3_morrendo/Sprite_esqueleto3_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"53d8f672-a0ed-44b6-96e3-da0c7c86c8d3","path":"sprites/sprite_esqueleto3_morrendo/sprite_esqueleto3_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"0bec54ed-04dc-470a-8a00-6e1d5a734491","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7b5d3977-7fd1-4e0b-b795-842175a508c8","path":"sprites/Sprite_esqueleto3_morrendo/Sprite_esqueleto3_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7b5d3977-7fd1-4e0b-b795-842175a508c8","path":"sprites/sprite_esqueleto3_morrendo/sprite_esqueleto3_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"12365e23-a6a8-44fd-ba34-f7078d49ea9d","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e4232365-15f2-43c9-9a4a-0dc692063911","path":"sprites/Sprite_esqueleto3_morrendo/Sprite_esqueleto3_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e4232365-15f2-43c9-9a4a-0dc692063911","path":"sprites/sprite_esqueleto3_morrendo/sprite_esqueleto3_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"cbb81d1f-0b01-4bef-b3d8-136e38b79352","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9b988a96-8612-4918-99cc-5ffaa4fb94cc","path":"sprites/Sprite_esqueleto3_morrendo/Sprite_esqueleto3_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9b988a96-8612-4918-99cc-5ffaa4fb94cc","path":"sprites/sprite_esqueleto3_morrendo/sprite_esqueleto3_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"92248acd-e7df-48bc-a28a-597acfde5eea","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"be3c0463-cb18-4748-adee-924546d12cca","path":"sprites/Sprite_esqueleto3_morrendo/Sprite_esqueleto3_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"be3c0463-cb18-4748-adee-924546d12cca","path":"sprites/sprite_esqueleto3_morrendo/sprite_esqueleto3_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"b7fcbea8-003a-4e24-8107-f58a24100c16","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8be993f7-4c46-4ede-b7c8-f3266d4e7a1c","path":"sprites/Sprite_esqueleto3_morrendo/Sprite_esqueleto3_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8be993f7-4c46-4ede-b7c8-f3266d4e7a1c","path":"sprites/sprite_esqueleto3_morrendo/sprite_esqueleto3_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"85690edc-b458-498a-af49-37f00789770b","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3231208f-a8f9-4a26-88d0-06e92a56799a","path":"sprites/Sprite_esqueleto3_morrendo/Sprite_esqueleto3_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3231208f-a8f9-4a26-88d0-06e92a56799a","path":"sprites/sprite_esqueleto3_morrendo/sprite_esqueleto3_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"aeb41c44-a9bd-44af-8b8f-089560f05981","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

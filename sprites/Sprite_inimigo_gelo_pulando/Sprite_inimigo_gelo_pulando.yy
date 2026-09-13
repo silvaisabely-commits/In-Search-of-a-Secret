@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Sprite_inimigo_gelo_pulando",
+  "%Name":"sprite_inimigo_gelo_pulando",
   "bboxMode":0,
   "bbox_bottom":127,
   "bbox_left":0,
@@ -27,7 +27,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"77533ff4-49cd-490e-b6e5-c91d60741e8d","blendMode":0,"displayName":"default","isLocked":false,"name":"77533ff4-49cd-490e-b6e5-c91d60741e8d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite_inimigo_gelo_pulando",
+  "name":"sprite_inimigo_gelo_pulando",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -39,7 +39,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Sprite_inimigo_gelo_pulando",
+    "%Name":"sprite_inimigo_gelo_pulando",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -63,7 +63,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite_inimigo_gelo_pulando",
+    "name":"sprite_inimigo_gelo_pulando",
     "playback":1,
     "playbackSpeed":3.0,
     "playbackSpeedType":0,
@@ -75,25 +75,25 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bd13a1fc-54a4-44be-9474-cca37801b454","path":"sprites/Sprite_inimigo_gelo_pulando/Sprite_inimigo_gelo_pulando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bd13a1fc-54a4-44be-9474-cca37801b454","path":"sprites/sprite_inimigo_gelo_pulando/sprite_inimigo_gelo_pulando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"cb375ed7-be31-4674-884a-141481e3adbd","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fdc3b610-f0f2-4023-b9bd-365c2d268be3","path":"sprites/Sprite_inimigo_gelo_pulando/Sprite_inimigo_gelo_pulando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fdc3b610-f0f2-4023-b9bd-365c2d268be3","path":"sprites/sprite_inimigo_gelo_pulando/sprite_inimigo_gelo_pulando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"844334ed-a2fb-4ca2-822d-e38bd1034018","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9ab33ceb-54a4-4265-b2d1-9d98a99d1039","path":"sprites/Sprite_inimigo_gelo_pulando/Sprite_inimigo_gelo_pulando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9ab33ceb-54a4-4265-b2d1-9d98a99d1039","path":"sprites/sprite_inimigo_gelo_pulando/sprite_inimigo_gelo_pulando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"1bdc2a4a-98e2-47e6-adbe-fc4d8e6c02e5","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"de0e5a10-d6d7-43ca-abfd-0bf4c237f5a9","path":"sprites/Sprite_inimigo_gelo_pulando/Sprite_inimigo_gelo_pulando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"de0e5a10-d6d7-43ca-abfd-0bf4c237f5a9","path":"sprites/sprite_inimigo_gelo_pulando/sprite_inimigo_gelo_pulando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"3967750e-7bb3-48ef-a4a5-4094c4c07a51","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"075d8082-34f2-48ca-9d2a-b17e9372c354","path":"sprites/Sprite_inimigo_gelo_pulando/Sprite_inimigo_gelo_pulando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"075d8082-34f2-48ca-9d2a-b17e9372c354","path":"sprites/sprite_inimigo_gelo_pulando/sprite_inimigo_gelo_pulando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"8431e685-8f9b-4b86-9cba-bd83695be98a","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a6740aa8-d3d9-49e0-8cc6-4eb9dad9718b","path":"sprites/Sprite_inimigo_gelo_pulando/Sprite_inimigo_gelo_pulando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a6740aa8-d3d9-49e0-8cc6-4eb9dad9718b","path":"sprites/sprite_inimigo_gelo_pulando/sprite_inimigo_gelo_pulando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"c5777e1b-4563-4ce3-b3e2-8f7667a63f07","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4fb54552-9b2e-4ee3-bffd-54edffd9c683","path":"sprites/Sprite_inimigo_gelo_pulando/Sprite_inimigo_gelo_pulando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4fb54552-9b2e-4ee3-bffd-54edffd9c683","path":"sprites/sprite_inimigo_gelo_pulando/sprite_inimigo_gelo_pulando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"244a76ce-fc64-4fcd-9a6d-dde881371138","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

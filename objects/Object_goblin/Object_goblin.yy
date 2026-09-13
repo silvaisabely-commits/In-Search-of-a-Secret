@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Object_goblin",
-  "eventList":[],
+  "%Name":"object_goblin",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object_goblin",
+  "name":"object_goblin",
   "overriddenProperties":[],
   "parent":{
     "name":"objetos",
@@ -27,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprite_golbin_parado",
+    "path":"sprites/sprite_golbin_parado/sprite_golbin_parado.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

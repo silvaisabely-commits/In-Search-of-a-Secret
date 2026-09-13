@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Sprite_goblin_correndo",
+  "%Name":"sprite_goblin_correndo",
   "bboxMode":0,
   "bbox_bottom":114,
   "bbox_left":0,
@@ -26,7 +26,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"c7fdae76-be89-4e4b-aad2-564f68a92f2c","blendMode":0,"displayName":"default","isLocked":false,"name":"c7fdae76-be89-4e4b-aad2-564f68a92f2c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite_goblin_correndo",
+  "name":"sprite_goblin_correndo",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -38,7 +38,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Sprite_goblin_correndo",
+    "%Name":"sprite_goblin_correndo",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -62,7 +62,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite_goblin_correndo",
+    "name":"sprite_goblin_correndo",
     "playback":1,
     "playbackSpeed":3.0,
     "playbackSpeedType":0,
@@ -74,22 +74,22 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1cef9948-e8ac-401c-96dc-825d31bcc05c","path":"sprites/Sprite_goblin_correndo/Sprite_goblin_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1cef9948-e8ac-401c-96dc-825d31bcc05c","path":"sprites/sprite_goblin_correndo/sprite_goblin_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"10c6c47f-1c8b-45f1-8ac3-ed32900b9461","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"57d20fed-fe6c-40f2-8b90-9c4b3f7c4cd0","path":"sprites/Sprite_goblin_correndo/Sprite_goblin_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"57d20fed-fe6c-40f2-8b90-9c4b3f7c4cd0","path":"sprites/sprite_goblin_correndo/sprite_goblin_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"40408640-ce70-43b5-b15b-bc703cb0c49a","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fcc269d6-10b3-4a6c-becb-74f424706d09","path":"sprites/Sprite_goblin_correndo/Sprite_goblin_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fcc269d6-10b3-4a6c-becb-74f424706d09","path":"sprites/sprite_goblin_correndo/sprite_goblin_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"53aa3396-3f8e-49e7-b95a-dbcf1797ad5d","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"66a5e58b-147b-4703-806e-036926207571","path":"sprites/Sprite_goblin_correndo/Sprite_goblin_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"66a5e58b-147b-4703-806e-036926207571","path":"sprites/sprite_goblin_correndo/sprite_goblin_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"b3dd99da-4c8a-4a4b-aed1-0fc3f06e4700","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d46a1508-888d-4b7e-8166-9ff35a6d75ed","path":"sprites/Sprite_goblin_correndo/Sprite_goblin_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d46a1508-888d-4b7e-8166-9ff35a6d75ed","path":"sprites/sprite_goblin_correndo/sprite_goblin_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"e2813fb0-28bd-40e4-abdc-ef2132aa0d30","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"185a1c2c-7f48-4dcc-9fe4-69ac4b2ff90a","path":"sprites/Sprite_goblin_correndo/Sprite_goblin_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"185a1c2c-7f48-4dcc-9fe4-69ac4b2ff90a","path":"sprites/sprite_goblin_correndo/sprite_goblin_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"0a009751-d432-4ca9-98b2-92231bd0e0fa","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

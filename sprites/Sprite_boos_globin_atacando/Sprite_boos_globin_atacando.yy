@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Sprite_boos_globin_atacando",
+  "%Name":"sprite_boos_globin_atacando",
   "bboxMode":0,
   "bbox_bottom":239,
   "bbox_left":0,
@@ -28,7 +28,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"00f0fed9-5c6b-4b34-9a2f-bd3ef274ad09","blendMode":0,"displayName":"default","isLocked":false,"name":"00f0fed9-5c6b-4b34-9a2f-bd3ef274ad09","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite_boos_globin_atacando",
+  "name":"sprite_boos_globin_atacando",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -40,7 +40,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Sprite_boos_globin_atacando",
+    "%Name":"sprite_boos_globin_atacando",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -64,7 +64,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite_boos_globin_atacando",
+    "name":"sprite_boos_globin_atacando",
     "playback":1,
     "playbackSpeed":3.0,
     "playbackSpeedType":0,
@@ -76,28 +76,28 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"df18a290-f0c7-4235-8dbe-10c9e1e9a929","path":"sprites/Sprite_boos_globin_atacando/Sprite_boos_globin_atacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"df18a290-f0c7-4235-8dbe-10c9e1e9a929","path":"sprites/sprite_boos_globin_atacando/sprite_boos_globin_atacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"b8841e7e-5a4a-4bfe-a84a-1d5f6ce66d7b","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e89cee05-97df-46c3-be72-24fd364c6606","path":"sprites/Sprite_boos_globin_atacando/Sprite_boos_globin_atacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e89cee05-97df-46c3-be72-24fd364c6606","path":"sprites/sprite_boos_globin_atacando/sprite_boos_globin_atacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"27d26174-7dd1-4620-b318-07084423a4d8","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"780a238e-a852-4e5b-ae1a-997ffc40e087","path":"sprites/Sprite_boos_globin_atacando/Sprite_boos_globin_atacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"780a238e-a852-4e5b-ae1a-997ffc40e087","path":"sprites/sprite_boos_globin_atacando/sprite_boos_globin_atacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"8fe5e762-8a8b-47bf-8da8-66677c7f64b3","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d2eac6f1-9651-487d-92b4-6e8921cea70a","path":"sprites/Sprite_boos_globin_atacando/Sprite_boos_globin_atacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d2eac6f1-9651-487d-92b4-6e8921cea70a","path":"sprites/sprite_boos_globin_atacando/sprite_boos_globin_atacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"ca41bff4-b4fc-4166-96c1-e9ac0b106b61","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2f98c2b8-a49c-471c-8a39-e9c1e299f164","path":"sprites/Sprite_boos_globin_atacando/Sprite_boos_globin_atacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2f98c2b8-a49c-471c-8a39-e9c1e299f164","path":"sprites/sprite_boos_globin_atacando/sprite_boos_globin_atacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"ecb3a2c4-4528-49f9-83e4-1907b5cd666e","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cfd2b235-9543-41e5-874a-c03c2284efbe","path":"sprites/Sprite_boos_globin_atacando/Sprite_boos_globin_atacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cfd2b235-9543-41e5-874a-c03c2284efbe","path":"sprites/sprite_boos_globin_atacando/sprite_boos_globin_atacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"1340b3cb-a986-48b8-9741-378dcfa04b7c","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ba5bbd9c-c9c0-4071-aabe-defc1f0015e2","path":"sprites/Sprite_boos_globin_atacando/Sprite_boos_globin_atacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ba5bbd9c-c9c0-4071-aabe-defc1f0015e2","path":"sprites/sprite_boos_globin_atacando/sprite_boos_globin_atacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"54ba0ca4-27a2-445e-bfdc-c084a9645221","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e5d12886-f41c-4f06-88ff-9ce5a2592dcd","path":"sprites/Sprite_boos_globin_atacando/Sprite_boos_globin_atacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e5d12886-f41c-4f06-88ff-9ce5a2592dcd","path":"sprites/sprite_boos_globin_atacando/sprite_boos_globin_atacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"21cbfb19-060c-4b56-8bbd-f5708cadbda1","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

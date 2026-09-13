@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Sprite_inimigo_gelo_correndo",
+  "%Name":"sprite_inimigo_gelo_correndo",
   "bboxMode":0,
   "bbox_bottom":107,
   "bbox_left":0,
@@ -27,7 +27,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"aa15c1e0-b80f-478c-a58a-5b14a71ff47a","blendMode":0,"displayName":"default","isLocked":false,"name":"aa15c1e0-b80f-478c-a58a-5b14a71ff47a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite_inimigo_gelo_correndo",
+  "name":"sprite_inimigo_gelo_correndo",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -39,7 +39,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Sprite_inimigo_gelo_correndo",
+    "%Name":"sprite_inimigo_gelo_correndo",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -63,7 +63,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite_inimigo_gelo_correndo",
+    "name":"sprite_inimigo_gelo_correndo",
     "playback":1,
     "playbackSpeed":3.0,
     "playbackSpeedType":0,
@@ -75,25 +75,25 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f6d59bf3-9128-4a48-9929-a73cf7034842","path":"sprites/Sprite_inimigo_gelo_correndo/Sprite_inimigo_gelo_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f6d59bf3-9128-4a48-9929-a73cf7034842","path":"sprites/sprite_inimigo_gelo_correndo/sprite_inimigo_gelo_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"fa301da1-55f4-4e80-bc6c-66a60d084ea9","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"39e0cc3f-0d84-4240-9dfc-c84e44b0dd17","path":"sprites/Sprite_inimigo_gelo_correndo/Sprite_inimigo_gelo_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"39e0cc3f-0d84-4240-9dfc-c84e44b0dd17","path":"sprites/sprite_inimigo_gelo_correndo/sprite_inimigo_gelo_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"5905ecf2-4b9d-4f35-8bad-b22da03a0a73","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8f82711c-49f2-4656-82b3-768deb5d4eb8","path":"sprites/Sprite_inimigo_gelo_correndo/Sprite_inimigo_gelo_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8f82711c-49f2-4656-82b3-768deb5d4eb8","path":"sprites/sprite_inimigo_gelo_correndo/sprite_inimigo_gelo_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"429f6211-2630-420e-aee7-ffbad8ad6012","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8758d680-2c17-4dea-8dbf-5ee44e6496e7","path":"sprites/Sprite_inimigo_gelo_correndo/Sprite_inimigo_gelo_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8758d680-2c17-4dea-8dbf-5ee44e6496e7","path":"sprites/sprite_inimigo_gelo_correndo/sprite_inimigo_gelo_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"a645df6e-de36-46c9-828c-2fba3445222c","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5260b72a-48a4-4f47-ab26-1d5b5a0cb8c6","path":"sprites/Sprite_inimigo_gelo_correndo/Sprite_inimigo_gelo_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5260b72a-48a4-4f47-ab26-1d5b5a0cb8c6","path":"sprites/sprite_inimigo_gelo_correndo/sprite_inimigo_gelo_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"3ef44fe5-7e1d-45ac-b7f3-f71b0c4d30c6","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e389e29f-f6d3-4c2d-b9ae-5e31d0eb3b73","path":"sprites/Sprite_inimigo_gelo_correndo/Sprite_inimigo_gelo_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e389e29f-f6d3-4c2d-b9ae-5e31d0eb3b73","path":"sprites/sprite_inimigo_gelo_correndo/sprite_inimigo_gelo_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"a37eeb83-5754-4362-9150-42a42b627f62","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fb73eda8-d152-494d-8107-434789df919a","path":"sprites/Sprite_inimigo_gelo_correndo/Sprite_inimigo_gelo_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fb73eda8-d152-494d-8107-434789df919a","path":"sprites/sprite_inimigo_gelo_correndo/sprite_inimigo_gelo_correndo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"f827d3ee-e4b7-4392-bfa8-78d66362ecda","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

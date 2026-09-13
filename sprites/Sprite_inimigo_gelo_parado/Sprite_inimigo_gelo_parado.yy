@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Sprite_inimigo_gelo_parado",
+  "%Name":"sprite_inimigo_gelo_parado",
   "bboxMode":0,
   "bbox_bottom":107,
   "bbox_left":0,
@@ -24,7 +24,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"8ebf1aef-6eb2-4e67-9ca4-fea60744c9b0","blendMode":0,"displayName":"default","isLocked":false,"name":"8ebf1aef-6eb2-4e67-9ca4-fea60744c9b0","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite_inimigo_gelo_parado",
+  "name":"sprite_inimigo_gelo_parado",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -36,7 +36,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Sprite_inimigo_gelo_parado",
+    "%Name":"sprite_inimigo_gelo_parado",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -60,7 +60,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite_inimigo_gelo_parado",
+    "name":"sprite_inimigo_gelo_parado",
     "playback":1,
     "playbackSpeed":3.0,
     "playbackSpeedType":0,
@@ -72,16 +72,16 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bb0ab11a-628b-43dc-ac5a-01f17015a187","path":"sprites/Sprite_inimigo_gelo_parado/Sprite_inimigo_gelo_parado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bb0ab11a-628b-43dc-ac5a-01f17015a187","path":"sprites/sprite_inimigo_gelo_parado/sprite_inimigo_gelo_parado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"bd92e205-815a-4811-8c0f-a833f4defd18","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8218a8f7-da2f-4794-9418-a882c9c9c8d1","path":"sprites/Sprite_inimigo_gelo_parado/Sprite_inimigo_gelo_parado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8218a8f7-da2f-4794-9418-a882c9c9c8d1","path":"sprites/sprite_inimigo_gelo_parado/sprite_inimigo_gelo_parado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"7a252620-824d-40e5-b48c-085f1ab21c0d","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d3bcc049-8020-4c65-bbe0-e48508039b4d","path":"sprites/Sprite_inimigo_gelo_parado/Sprite_inimigo_gelo_parado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d3bcc049-8020-4c65-bbe0-e48508039b4d","path":"sprites/sprite_inimigo_gelo_parado/sprite_inimigo_gelo_parado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"b588f9de-b5aa-4df1-8f08-a3e3d897b486","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e596094b-ae7f-48f6-915a-146364f567ca","path":"sprites/Sprite_inimigo_gelo_parado/Sprite_inimigo_gelo_parado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e596094b-ae7f-48f6-915a-146364f567ca","path":"sprites/sprite_inimigo_gelo_parado/sprite_inimigo_gelo_parado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"576856a6-3d27-47be-a9d4-72851b2076db","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

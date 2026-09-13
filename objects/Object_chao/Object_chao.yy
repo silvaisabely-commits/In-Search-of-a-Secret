@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object_chao",
+  "%Name":"object_chao",
   "eventList":[],
   "managed":true,
-  "name":"Object_chao",
+  "name":"object_chao",
   "overriddenProperties":[],
   "parent":{
     "name":"objetos",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite_colisao",
-    "path":"sprites/Sprite_colisao/Sprite_colisao.yy",
+    "name":"sprite_colisao",
+    "path":"sprites/sprite_colisao/sprite_colisao.yy",
   },
   "spriteMaskId":null,
   "visible":false,

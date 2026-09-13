@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Sprite_esqueleto3_saltando",
+  "%Name":"sprite_esqueleto3_saltando",
   "bboxMode":0,
   "bbox_bottom":124,
   "bbox_left":0,
@@ -24,7 +24,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"c4ee8650-50d5-4711-b81e-157021ef2dbd","blendMode":0,"displayName":"default","isLocked":false,"name":"c4ee8650-50d5-4711-b81e-157021ef2dbd","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite_esqueleto3_saltando",
+  "name":"sprite_esqueleto3_saltando",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -36,7 +36,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Sprite_esqueleto3_saltando",
+    "%Name":"sprite_esqueleto3_saltando",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -60,7 +60,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite_esqueleto3_saltando",
+    "name":"sprite_esqueleto3_saltando",
     "playback":1,
     "playbackSpeed":2.0,
     "playbackSpeedType":0,
@@ -72,16 +72,16 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ad78378c-12a1-4df8-8d26-0c083977bfdd","path":"sprites/Sprite_esqueleto3_saltando/Sprite_esqueleto3_saltando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ad78378c-12a1-4df8-8d26-0c083977bfdd","path":"sprites/sprite_esqueleto3_saltando/sprite_esqueleto3_saltando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"b36e9db2-f1b8-433e-acbf-90ac6332bb30","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"508cf512-66b4-447f-bded-e667092d5adf","path":"sprites/Sprite_esqueleto3_saltando/Sprite_esqueleto3_saltando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"508cf512-66b4-447f-bded-e667092d5adf","path":"sprites/sprite_esqueleto3_saltando/sprite_esqueleto3_saltando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"292d4914-95c4-4524-b4a7-13f07d769b38","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d09d2a3f-45bf-4b69-95c8-b8b108aac263","path":"sprites/Sprite_esqueleto3_saltando/Sprite_esqueleto3_saltando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d09d2a3f-45bf-4b69-95c8-b8b108aac263","path":"sprites/sprite_esqueleto3_saltando/sprite_esqueleto3_saltando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"45ba4855-6b6a-49c6-9baa-601d5a57c368","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"53c36581-6614-4c8a-a1f4-f21cafd2dc3a","path":"sprites/Sprite_esqueleto3_saltando/Sprite_esqueleto3_saltando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"53c36581-6614-4c8a-a1f4-f21cafd2dc3a","path":"sprites/sprite_esqueleto3_saltando/sprite_esqueleto3_saltando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"62f7a893-6470-433b-a110-3717341f0a9b","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

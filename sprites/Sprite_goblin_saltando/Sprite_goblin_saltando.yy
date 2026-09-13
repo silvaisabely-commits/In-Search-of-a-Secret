@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Sprite_goblin_saltando",
+  "%Name":"sprite_goblin_saltando",
   "bboxMode":0,
   "bbox_bottom":118,
   "bbox_left":0,
@@ -24,7 +24,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"08766f0f-a645-4e64-8a87-347dc0c6df1b","blendMode":0,"displayName":"default","isLocked":false,"name":"08766f0f-a645-4e64-8a87-347dc0c6df1b","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite_goblin_saltando",
+  "name":"sprite_goblin_saltando",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -36,7 +36,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Sprite_goblin_saltando",
+    "%Name":"sprite_goblin_saltando",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -60,7 +60,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite_goblin_saltando",
+    "name":"sprite_goblin_saltando",
     "playback":1,
     "playbackSpeed":3.0,
     "playbackSpeedType":0,
@@ -72,16 +72,16 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"eab97fdc-b6dd-47c9-9390-bd332e8d02da","path":"sprites/Sprite_goblin_saltando/Sprite_goblin_saltando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"eab97fdc-b6dd-47c9-9390-bd332e8d02da","path":"sprites/sprite_goblin_saltando/sprite_goblin_saltando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"193db722-2638-4724-a8d6-061947742f05","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3cdc3524-5c18-4a8d-9c60-07e3cb7f0e37","path":"sprites/Sprite_goblin_saltando/Sprite_goblin_saltando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3cdc3524-5c18-4a8d-9c60-07e3cb7f0e37","path":"sprites/sprite_goblin_saltando/sprite_goblin_saltando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"c946a1dc-6bee-4d2d-980c-63916161e95b","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c4e6cfd6-d5e6-4b04-967c-1e1dae56f163","path":"sprites/Sprite_goblin_saltando/Sprite_goblin_saltando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c4e6cfd6-d5e6-4b04-967c-1e1dae56f163","path":"sprites/sprite_goblin_saltando/sprite_goblin_saltando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"f9e8af51-5864-4bab-a807-b57be2359f7b","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a050157b-dd10-4c98-a561-537f3e3bf720","path":"sprites/Sprite_goblin_saltando/Sprite_goblin_saltando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a050157b-dd10-4c98-a561-537f3e3bf720","path":"sprites/sprite_goblin_saltando/sprite_goblin_saltando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"0ab4177c-8376-4a23-b613-889db6dd2036","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

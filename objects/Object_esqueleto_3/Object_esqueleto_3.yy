@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object_esqueleto_3",
+  "%Name":"object_esqueleto_3",
   "eventList":[],
   "managed":true,
-  "name":"Object_esqueleto_3",
+  "name":"object_esqueleto_3",
   "overriddenProperties":[],
   "parent":{
     "name":"objetos",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprite_esqueleto3_parado",
+    "path":"sprites/sprite_esqueleto3_parado/sprite_esqueleto3_parado.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

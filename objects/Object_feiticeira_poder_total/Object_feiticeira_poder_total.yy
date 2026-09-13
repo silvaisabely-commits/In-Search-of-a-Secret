@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object_feiticeira_poder_total",
+  "%Name":"object_feiticeira_poder_total",
   "eventList":[],
   "managed":true,
-  "name":"Object_feiticeira_poder_total",
+  "name":"object_feiticeira_poder_total",
   "overriddenProperties":[],
   "parent":{
     "name":"objetos",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprite_feiticeira_parada_total",
+    "path":"sprites/sprite_feiticeira_parada_total/sprite_feiticeira_parada_total.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Sprite_esqueleto3_caminhando",
+  "%Name":"sprite_esqueleto3_caminhando",
   "bboxMode":0,
   "bbox_bottom":107,
   "bbox_left":0,
@@ -26,7 +26,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"3b59cdfa-ccf4-456f-9882-5bacbea74a47","blendMode":0,"displayName":"default","isLocked":false,"name":"3b59cdfa-ccf4-456f-9882-5bacbea74a47","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite_esqueleto3_caminhando",
+  "name":"sprite_esqueleto3_caminhando",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -38,7 +38,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Sprite_esqueleto3_caminhando",
+    "%Name":"sprite_esqueleto3_caminhando",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -62,7 +62,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite_esqueleto3_caminhando",
+    "name":"sprite_esqueleto3_caminhando",
     "playback":1,
     "playbackSpeed":3.0,
     "playbackSpeedType":0,
@@ -74,22 +74,22 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"efa32b3a-f77a-46d5-9775-d5714431f29d","path":"sprites/Sprite_esqueleto3_caminhando/Sprite_esqueleto3_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"efa32b3a-f77a-46d5-9775-d5714431f29d","path":"sprites/sprite_esqueleto3_caminhando/sprite_esqueleto3_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"a403ea50-98c2-4a57-a500-bd57ee562e36","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d113b5cc-8152-4beb-96cd-b6f483d7701d","path":"sprites/Sprite_esqueleto3_caminhando/Sprite_esqueleto3_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d113b5cc-8152-4beb-96cd-b6f483d7701d","path":"sprites/sprite_esqueleto3_caminhando/sprite_esqueleto3_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"05ec6a06-f45f-400e-9e71-8729c24d058b","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1923b1f4-2094-449e-af08-82942f820c20","path":"sprites/Sprite_esqueleto3_caminhando/Sprite_esqueleto3_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1923b1f4-2094-449e-af08-82942f820c20","path":"sprites/sprite_esqueleto3_caminhando/sprite_esqueleto3_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"7d41ca01-9941-4879-8fab-36c578112d03","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"054adb28-3e60-4741-8b41-843b98fef6d5","path":"sprites/Sprite_esqueleto3_caminhando/Sprite_esqueleto3_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"054adb28-3e60-4741-8b41-843b98fef6d5","path":"sprites/sprite_esqueleto3_caminhando/sprite_esqueleto3_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"af69e19f-3506-4b81-8ca0-dc671a1345a1","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9442166a-a76c-4b57-b896-a5053df46731","path":"sprites/Sprite_esqueleto3_caminhando/Sprite_esqueleto3_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9442166a-a76c-4b57-b896-a5053df46731","path":"sprites/sprite_esqueleto3_caminhando/sprite_esqueleto3_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"65f4ce82-8f58-49e1-b13e-93505c784b21","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"96f65855-cc3e-4201-b163-622bda72caf2","path":"sprites/Sprite_esqueleto3_caminhando/Sprite_esqueleto3_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"96f65855-cc3e-4201-b163-622bda72caf2","path":"sprites/sprite_esqueleto3_caminhando/sprite_esqueleto3_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"14fe8e97-dfed-4f96-883b-b3d4dde59fbb","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

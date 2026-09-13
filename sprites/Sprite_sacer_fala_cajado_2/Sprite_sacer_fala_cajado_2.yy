@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Sprite_sacer_fala_cajado_2",
+  "%Name":"sprite_sacer_fala_cajado_2",
   "bboxMode":0,
   "bbox_bottom":115,
   "bbox_left":0,
@@ -26,7 +26,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"45db5b7e-0f50-44a6-b227-7344e9f4035c","blendMode":0,"displayName":"default","isLocked":false,"name":"45db5b7e-0f50-44a6-b227-7344e9f4035c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite_sacer_fala_cajado_2",
+  "name":"sprite_sacer_fala_cajado_2",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -38,7 +38,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Sprite_sacer_fala_cajado_2",
+    "%Name":"sprite_sacer_fala_cajado_2",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -62,7 +62,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite_sacer_fala_cajado_2",
+    "name":"sprite_sacer_fala_cajado_2",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -74,22 +74,22 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"85d17490-ec14-4f16-ae32-632e0cb3bde4","path":"sprites/Sprite_sacer_fala_cajado_2/Sprite_sacer_fala_cajado_2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"85d17490-ec14-4f16-ae32-632e0cb3bde4","path":"sprites/sprite_sacer_fala_cajado_2/sprite_sacer_fala_cajado_2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"18ff415b-21e1-472c-9384-ffc069241552","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e78c01d1-bc60-43f2-967f-4d1730423696","path":"sprites/Sprite_sacer_fala_cajado_2/Sprite_sacer_fala_cajado_2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e78c01d1-bc60-43f2-967f-4d1730423696","path":"sprites/sprite_sacer_fala_cajado_2/sprite_sacer_fala_cajado_2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"75cbd3c2-9216-4627-84b3-f1d6c82e6423","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a9739346-37ba-4508-819c-c82929775d22","path":"sprites/Sprite_sacer_fala_cajado_2/Sprite_sacer_fala_cajado_2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a9739346-37ba-4508-819c-c82929775d22","path":"sprites/sprite_sacer_fala_cajado_2/sprite_sacer_fala_cajado_2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"6cb4f2ec-f052-46b4-8af2-4ac4b24e3dda","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7dff4aa1-d9ef-4e3b-ba94-1edb2c3cdc14","path":"sprites/Sprite_sacer_fala_cajado_2/Sprite_sacer_fala_cajado_2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7dff4aa1-d9ef-4e3b-ba94-1edb2c3cdc14","path":"sprites/sprite_sacer_fala_cajado_2/sprite_sacer_fala_cajado_2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"50a0d019-50e1-41fb-8d9f-c8f480d0cead","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"63d9ec0f-52b7-44ad-a879-c5bfa1f47613","path":"sprites/Sprite_sacer_fala_cajado_2/Sprite_sacer_fala_cajado_2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"63d9ec0f-52b7-44ad-a879-c5bfa1f47613","path":"sprites/sprite_sacer_fala_cajado_2/sprite_sacer_fala_cajado_2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"a955431f-9950-48af-a079-00169e7e867d","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"04686cfa-d9c9-42ec-a8c6-6ed6336c4962","path":"sprites/Sprite_sacer_fala_cajado_2/Sprite_sacer_fala_cajado_2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"04686cfa-d9c9-42ec-a8c6-6ed6336c4962","path":"sprites/sprite_sacer_fala_cajado_2/sprite_sacer_fala_cajado_2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"d0451cd3-60f7-48e4-bf7a-817f0c18c29a","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

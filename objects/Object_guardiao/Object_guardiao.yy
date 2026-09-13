@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object_guardiao",
+  "%Name":"object_guardiao",
   "eventList":[],
   "managed":true,
-  "name":"Object_guardiao",
+  "name":"object_guardiao",
   "overriddenProperties":[],
   "parent":{
     "name":"objetos",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprite_guardiao_parado",
+    "path":"sprites/sprite_guardiao_parado/sprite_guardiao_parado.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

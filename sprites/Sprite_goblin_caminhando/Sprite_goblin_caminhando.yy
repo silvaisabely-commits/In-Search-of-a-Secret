@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Sprite_goblin_caminhando",
+  "%Name":"sprite_goblin_caminhando",
   "bboxMode":0,
   "bbox_bottom":117,
   "bbox_left":0,
@@ -26,7 +26,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"9082b090-58c6-424d-a183-0cf589ced295","blendMode":0,"displayName":"default","isLocked":false,"name":"9082b090-58c6-424d-a183-0cf589ced295","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite_goblin_caminhando",
+  "name":"sprite_goblin_caminhando",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -38,7 +38,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Sprite_goblin_caminhando",
+    "%Name":"sprite_goblin_caminhando",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -62,7 +62,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite_goblin_caminhando",
+    "name":"sprite_goblin_caminhando",
     "playback":1,
     "playbackSpeed":3.0,
     "playbackSpeedType":0,
@@ -74,22 +74,22 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0e58dbbd-5e7b-4481-ae12-4a126a2ee5aa","path":"sprites/Sprite_goblin_caminhando/Sprite_goblin_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0e58dbbd-5e7b-4481-ae12-4a126a2ee5aa","path":"sprites/sprite_goblin_caminhando/sprite_goblin_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"ce15683f-02a6-4b85-99f3-baf32dbfdb15","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"430dcbb8-f143-42d7-a01c-2f1f8daf4099","path":"sprites/Sprite_goblin_caminhando/Sprite_goblin_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"430dcbb8-f143-42d7-a01c-2f1f8daf4099","path":"sprites/sprite_goblin_caminhando/sprite_goblin_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"337580b7-9947-40ba-926e-ace776898118","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"57eb9728-218a-4ae0-8568-83fad0980414","path":"sprites/Sprite_goblin_caminhando/Sprite_goblin_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"57eb9728-218a-4ae0-8568-83fad0980414","path":"sprites/sprite_goblin_caminhando/sprite_goblin_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"99265379-5022-4283-a6ec-7b4efa6a9fd2","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4c61c3e8-a8da-41a2-896f-e7d43965c966","path":"sprites/Sprite_goblin_caminhando/Sprite_goblin_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4c61c3e8-a8da-41a2-896f-e7d43965c966","path":"sprites/sprite_goblin_caminhando/sprite_goblin_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"d89c0342-1e49-4b4b-95e0-fbe7494c50fb","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d0a0c269-cc4f-4189-8cd6-38f7224fd598","path":"sprites/Sprite_goblin_caminhando/Sprite_goblin_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d0a0c269-cc4f-4189-8cd6-38f7224fd598","path":"sprites/sprite_goblin_caminhando/sprite_goblin_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"4db1842e-dbb4-4272-bf91-467d088ba2d3","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"da932323-83c7-44f7-881a-349885fab559","path":"sprites/Sprite_goblin_caminhando/Sprite_goblin_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"da932323-83c7-44f7-881a-349885fab559","path":"sprites/sprite_goblin_caminhando/sprite_goblin_caminhando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"f50cb04e-dcfe-4bd6-9a7c-bc199f92b805","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

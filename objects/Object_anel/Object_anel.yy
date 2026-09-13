@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object_anel",
+  "%Name":"object_anel",
   "eventList":[],
   "managed":true,
-  "name":"Object_anel",
+  "name":"object_anel",
   "overriddenProperties":[],
   "parent":{
     "name":"objetos",

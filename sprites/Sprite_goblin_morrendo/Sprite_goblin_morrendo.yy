@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Sprite_goblin_morrendo",
+  "%Name":"sprite_goblin_morrendo",
   "bboxMode":0,
   "bbox_bottom":104,
   "bbox_left":0,
@@ -26,7 +26,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"97dd613b-8207-4304-9648-fe99a72aa6f5","blendMode":0,"displayName":"default","isLocked":false,"name":"97dd613b-8207-4304-9648-fe99a72aa6f5","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite_goblin_morrendo",
+  "name":"sprite_goblin_morrendo",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -38,7 +38,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Sprite_goblin_morrendo",
+    "%Name":"sprite_goblin_morrendo",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -62,7 +62,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite_goblin_morrendo",
+    "name":"sprite_goblin_morrendo",
     "playback":1,
     "playbackSpeed":3.0,
     "playbackSpeedType":0,
@@ -74,22 +74,22 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1a1f1f31-b1c4-4319-bd30-81b99bd209cd","path":"sprites/Sprite_goblin_morrendo/Sprite_goblin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1a1f1f31-b1c4-4319-bd30-81b99bd209cd","path":"sprites/sprite_goblin_morrendo/sprite_goblin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"e9705d13-9f26-478c-9923-9c33ea7f408e","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4dea6d5d-bb2a-4be0-ac0a-f7954adebd48","path":"sprites/Sprite_goblin_morrendo/Sprite_goblin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4dea6d5d-bb2a-4be0-ac0a-f7954adebd48","path":"sprites/sprite_goblin_morrendo/sprite_goblin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"9166ca9d-96d3-4679-a7ba-e9962caf597e","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"208303a0-0039-4b8f-abda-b1aaa94c6a10","path":"sprites/Sprite_goblin_morrendo/Sprite_goblin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"208303a0-0039-4b8f-abda-b1aaa94c6a10","path":"sprites/sprite_goblin_morrendo/sprite_goblin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"bd125cce-ff9f-439e-b391-79405e73cd2e","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7e5da1e2-e944-4041-b322-99a38fdbd8c2","path":"sprites/Sprite_goblin_morrendo/Sprite_goblin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7e5da1e2-e944-4041-b322-99a38fdbd8c2","path":"sprites/sprite_goblin_morrendo/sprite_goblin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"2568749f-7e75-41f1-a6f9-37d064a0ebfd","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"507e1949-f8a9-4d58-b0db-f16fb53ae85a","path":"sprites/Sprite_goblin_morrendo/Sprite_goblin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"507e1949-f8a9-4d58-b0db-f16fb53ae85a","path":"sprites/sprite_goblin_morrendo/sprite_goblin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"f7b34371-c93d-4474-933a-f64432b2212a","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e9b2dfe5-3ec4-4d4c-bac9-da5f91fb220c","path":"sprites/Sprite_goblin_morrendo/Sprite_goblin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e9b2dfe5-3ec4-4d4c-bac9-da5f91fb220c","path":"sprites/sprite_goblin_morrendo/sprite_goblin_morrendo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"05266e52-1a2f-455c-bf20-7187749bebef","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
