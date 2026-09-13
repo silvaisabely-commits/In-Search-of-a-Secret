@@ -1,0 +1,2 @@
+mostrar = false;
+terminou = false;
