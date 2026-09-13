@@ -22,14 +22,27 @@ distancia_detectar = 180;
 distancia_atacar = 35;
 
 
-// Estado inicial
-estado = "parado";
+// Patrulha
+x_inicial = x;
+distancia_patrulha = 120;
 
-
-// Direção
 direcao = 1;
+
+
+// Estado inicial
+estado = "patrulhando";
 
 
 // Sprite inicial
 sprite_index = sprite_goblin_parado;
 image_speed = 0.15;
+
+// =====================================
+// COMBATE
+// =====================================
+
+dano = 1;
+
+// Impede causar dano várias vezes
+// durante a mesma animação
+ja_atacou = false;

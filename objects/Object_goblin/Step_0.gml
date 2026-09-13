@@ -21,7 +21,7 @@ var distancia = point_distance(x, y, jogador.x, jogador.y);
 
 
 // =====================================
-// DEFINE O ESTADO DO GOBLIN
+// DEFINE O ESTADO
 // =====================================
 
 if (vida <= 0) {
@@ -34,7 +34,7 @@ else if (distancia <= distancia_detectar) {
     estado = "correndo";
 }
 else {
-    estado = "parado";
+    estado = "patrulhando";
 }
 
 
@@ -45,18 +45,29 @@ else {
 switch (estado) {
 
     // -------------------------
-    // PARADO
+    // PATRULHANDO
     // -------------------------
-    case "parado":
+    case "patrulhando":
 
-        vel_x = 0;
+        vel_x = direcao * velocidade_andando;
 
-        if (sprite_index != sprite_goblin_parado) {
-            sprite_index = sprite_goblin_parado;
+        // Limites da patrulha
+        if (x >= x_inicial + distancia_patrulha) {
+            direcao = -1;
+        }
+
+        if (x <= x_inicial - distancia_patrulha) {
+            direcao = 1;
+        }
+
+        image_xscale = direcao;
+
+        if (sprite_index != sprite_goblin_caminhando) {
+            sprite_index = sprite_goblin_caminhando;
             image_index = 0;
         }
 
-        image_speed = 0.15;
+        image_speed = 0.25;
 
     break;
 
@@ -82,35 +93,67 @@ switch (estado) {
             image_index = 0;
         }
 
-        image_speed = 0.25;
+        image_speed = 0.30;
 
     break;
 
 
     // -------------------------
-    // ATACANDO
-    // -------------------------
-    case "atacando":
+// ATACANDO
+// -------------------------
+case "atacando":
 
-        vel_x = 0;
+    vel_x = 0;
 
-        if (jogador.x > x) {
-            direcao = 1;
+    // Olha para o jogador
+    if (jogador.x > x) {
+        direcao = 1;
+    }
+    else {
+        direcao = -1;
+    }
+
+    image_xscale = direcao;
+
+
+    // Troca para animação de ataque
+    if (sprite_index != sprite_goblin_atacando) {
+
+        sprite_index = sprite_goblin_atacando;
+
+        image_index = 0;
+
+        ja_atacou = false;
+    }
+
+    image_speed = 0.25;
+
+
+    // =====================================
+    // MOMENTO EM QUE O ATAQUE ACERTA
+    // =====================================
+
+    if (image_index >= 2 && !ja_atacou) {
+
+        if (point_distance(x, y, jogador.x, jogador.y)
+        <= distancia_atacar + 10) {
+
+            jogador.vida -= dano;
+
+            ja_atacou = true;
         }
-        else {
-            direcao = -1;
-        }
+    }
 
-        image_xscale = direcao;
 
-        if (sprite_index != sprite_goblin_atacando) {
-            sprite_index = sprite_goblin_atacando;
-            image_index = 0;
-        }
+    // Quando a animação termina,
+    // permite um novo ataque
+    if (image_index >= image_number - 1) {
 
-        image_speed = 0.25;
+        ja_atacou = false;
+        image_index = 0;
+    }
 
-    break;
+break;
 
 
     // -------------------------
@@ -144,6 +187,7 @@ if (vel_x != 0) {
         }
 
         vel_x = 0;
+        direcao *= -1;
     }
 }
 

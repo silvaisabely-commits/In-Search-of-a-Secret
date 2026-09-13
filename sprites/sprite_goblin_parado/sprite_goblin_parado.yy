@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"sprite_golbin_parado",
+  "%Name":"sprite_goblin_parado",
   "bboxMode":0,
   "bbox_bottom":114,
   "bbox_left":0,
@@ -24,9 +24,9 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"7619c394-87ef-49e4-8448-ab6221af3a2d","blendMode":0,"displayName":"default","isLocked":false,"name":"7619c394-87ef-49e4-8448-ab6221af3a2d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"sprite_golbin_parado",
+  "name":"sprite_goblin_parado",
   "nineSlice":null,
-  "origin":0,
+  "origin":4,
   "parent":{
     "name":"goblin",
     "path":"folders/sprites/goblin.yy",
@@ -36,7 +36,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"sprite_golbin_parado",
+    "%Name":"sprite_goblin_parado",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -60,7 +60,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"sprite_golbin_parado",
+    "name":"sprite_goblin_parado",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -72,23 +72,23 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"61af3c03-c31c-4523-be2d-6af5d10d919c","path":"sprites/sprite_golbin_parado/sprite_golbin_parado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"61af3c03-c31c-4523-be2d-6af5d10d919c","path":"sprites/sprite_goblin_parado/sprite_goblin_parado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"10ce9a34-e75c-4d07-8cad-8946db4a1baf","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0ca42512-eac4-4ee4-9601-3197c2081761","path":"sprites/sprite_golbin_parado/sprite_golbin_parado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0ca42512-eac4-4ee4-9601-3197c2081761","path":"sprites/sprite_goblin_parado/sprite_goblin_parado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"38e338f3-f710-426b-9e85-a1d6551d2455","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c9ea20e5-254d-43f7-ac14-1ec66c078d9f","path":"sprites/sprite_golbin_parado/sprite_golbin_parado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c9ea20e5-254d-43f7-ac14-1ec66c078d9f","path":"sprites/sprite_goblin_parado/sprite_goblin_parado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"a57caa49-0ce0-46b9-957d-0dfc3052c166","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8598995a-baf5-4070-a096-8273554558f7","path":"sprites/sprite_golbin_parado/sprite_golbin_parado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8598995a-baf5-4070-a096-8273554558f7","path":"sprites/sprite_goblin_parado/sprite_goblin_parado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"107fecb5-d6b3-40eb-95f5-da721624b1df","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "xorigin":60,
+    "yorigin":57,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

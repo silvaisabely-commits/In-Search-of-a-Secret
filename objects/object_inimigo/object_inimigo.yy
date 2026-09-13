@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"object_goblin",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"object_inimigo",
+  "eventList":[],
   "managed":true,
-  "name":"object_goblin",
+  "name":"object_inimigo",
   "overriddenProperties":[],
   "parent":{
     "name":"objetos",
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sprite_goblin_parado",
-    "path":"sprites/sprite_goblin_parado/sprite_goblin_parado.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

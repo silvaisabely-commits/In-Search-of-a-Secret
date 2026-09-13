@@ -54,9 +54,32 @@ y += vel_y;
 // ATUALIZA CHÃO
 no_chao = place_meeting(x, y + 1, Object_colisao_chao);
 
+// =====================================
+// ATAQUE
+// =====================================
 
+if (keyboard_check_pressed(ord("E")) && !atacando) {
+
+    atacando = true;
+    ja_acertou = false;
+
+    sprite_index = sprite_assassino_ataque2;
+    image_index = 0;
+    image_speed = 0.8;
+}
+
+// =====================================
 // ANIMAÇÕES
-if (!no_chao) {
+// =====================================
+
+if (atacando) {
+
+    // Enquanto estiver atacando, mantém
+    // sprite_assassino_ataque2.
+    // Não troca para pulo, corrida ou parado.
+
+}
+else if (!no_chao) {
 
     if (sprite_index != sprite_assassino_pulando) {
         sprite_index = sprite_assassino_pulando;
@@ -84,6 +107,50 @@ else {
 
 }
 
+// =====================================
+// DANO DO ATAQUE
+// =====================================
+
+if (atacando) {
+
+    // O golpe acerta no quadro 4 da animação
+    if (image_index >= 3 && !ja_acertou) {
+
+        var alcance_ataque = 45;
+
+        var alvo = instance_nearest(x, y, object_goblin);
+
+        if (instance_exists(alvo)) {
+
+            var distancia_alvo = point_distance(x, y, alvo.x, alvo.y);
+
+            if (distancia_alvo <= alcance_ataque) {
+
+                // Goblin precisa estar na frente do assassino
+                if (
+                    (image_xscale == 1 && alvo.x > x)
+                    ||
+                    (image_xscale == -1 && alvo.x < x)
+                ) {
+
+                    alvo.vida -= dano;
+
+                    ja_acertou = true;
+                }
+            }
+        }
+    }
+
+
+    // Finaliza o ataque quando a animação termina
+    if (image_index >= image_number - 1) {
+
+        atacando = false;
+        ja_acertou = false;
+
+        image_index = 0;
+    }
+}
 
 // SE CAIR PARA FORA DA ROOM
 if (y > room_height + 100) {
