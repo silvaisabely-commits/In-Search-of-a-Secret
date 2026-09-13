@@ -9,6 +9,7 @@ if (mostrar) {
 
     draw_text(200, 840, "ASSASSINO");
     draw_text(200, 890, "Finalmente a vila. O Bardo deve estar por aqui.");
+    draw_text(200, 890, "O que aconteceu aqui...?");
 
     draw_set_color(c_ltgray);
     draw_text(1450, 960, "SPACE para continuar");
