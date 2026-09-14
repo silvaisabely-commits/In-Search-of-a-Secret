@@ -59,3 +59,6 @@ sprite_index = sprite_boos_globin_parado;
 image_speed = 1;
 // Máscara fixa de colisão
 mask_index = sprite_boos_globin_parado;
+
+som_boss_goblin = audio_play_sound(boos_goblin, 1, true);
+audio_sound_gain(som_boss_goblin, 0.35, 0);

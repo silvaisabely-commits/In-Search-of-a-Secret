@@ -53,3 +53,6 @@ image_speed = 1;
 // =====================================
 
 mask_index = sprite_guardiao_parado;
+
+som_guardiao = audio_play_sound(guardia_pedra, 1, true);
+audio_sound_gain(som_guardiao, 0.35, 0);

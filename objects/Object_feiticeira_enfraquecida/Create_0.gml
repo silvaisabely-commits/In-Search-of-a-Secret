@@ -73,3 +73,5 @@ image_yscale = 1.15;
 // =====================================
 
 mask_index = sprite_feiticeira_enfraq_parada;
+
+audio_play_sound(feiticeira_risada, 1, false);

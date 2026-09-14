@@ -9,6 +9,7 @@
     {"name":"inst_689793B6","path":"rooms/Room13_minerios/Room13_minerios.yy",},
     {"name":"inst_340E180D","path":"rooms/Room13_minerios/Room13_minerios.yy",},
     {"name":"inst_37AAD91","path":"rooms/Room13_minerios/Room13_minerios.yy",},
+    {"name":"inst_72855E1","path":"rooms/Room13_minerios/Room13_minerios.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -19,6 +20,7 @@
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":5.0,"x":1728.0,"y":320.0,},
         {"$GMRInstance":"v4","%Name":"inst_340E180D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_340E180D","objectId":{"name":"object_chao","path":"objects/object_chao/object_chao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":28.0,"scaleY":1.0,"x":-64.0,"y":640.0,},
         {"$GMRInstance":"v4","%Name":"inst_37AAD91","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_37AAD91","objectId":{"name":"object_chao","path":"objects/object_chao/object_chao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":3.5,"x":-64.0,"y":416.0,},
+        {"$GMRInstance":"v4","%Name":"inst_72855E1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_72855E1","objectId":{"name":"object_boos_goblin","path":"objects/object_boos_goblin/object_boos_goblin.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":829.0,"y":533.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"sprite13_minerios","path":"sprites/sprite13_minerios/sprite13_minerios.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

@@ -53,3 +53,6 @@ estado = "patrulhando";
 
 sprite_index = sprite_esqueleto3_parado;
 image_speed = 1;
+
+som_esqueleto = audio_play_sound(esqueletos_caminhando, 1, true);
+audio_sound_gain(som_esqueleto, 0.35, 0);

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"goblins_falando",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":3.73551,
+  "exportDir":"",
+  "name":"goblins_falando",
+  "parent":{
+    "name":"In Search of a Secret",
+    "path":"In Search of a Secret.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"goblins_falando.mp3",
+  "volume":1.0,
+}

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"guardia_pedra",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":6.4261227,
+  "exportDir":"",
+  "name":"guardia_pedra",
+  "parent":{
+    "name":"In Search of a Secret",
+    "path":"In Search of a Secret.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"guardia_pedra.mp3",
+  "volume":1.0,
+}

@@ -165,7 +165,8 @@ case "morrendo":
 
     // Quando a animação terminar, remove o goblin
     if (image_index >= image_number - 1) {
-        instance_destroy();
+        audio_stop_sound(som_goblin);
+		instance_destroy();
     }
 
 break;

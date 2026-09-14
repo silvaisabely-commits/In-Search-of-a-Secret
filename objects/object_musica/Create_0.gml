@@ -1,0 +1,1 @@
+musica_atual = noone;

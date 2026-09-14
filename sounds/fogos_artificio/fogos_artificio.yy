@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"fogos_artificio",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":6.0240135,
+  "exportDir":"",
+  "name":"fogos_artificio",
+  "parent":{
+    "name":"In Search of a Secret",
+    "path":"In Search of a Secret.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"fogos_artificio.mp3",
+  "volume":1.0,
+}

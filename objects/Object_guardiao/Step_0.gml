@@ -133,6 +133,10 @@ switch (estado) {
         }
 
         if (image_index >= image_number - 1) {
+			if (variable_instance_exists(id, "som_guardiao")) {
+				audio_stop_sound(som_guardiao);
+			}
+			
             instance_destroy();
         }
 

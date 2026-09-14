@@ -13,6 +13,7 @@
     {"name":"inst_3B1127AB","path":"rooms/Room11_saida_vila/Room11_saida_vila.yy",},
     {"name":"inst_31F88F50","path":"rooms/Room11_saida_vila/Room11_saida_vila.yy",},
     {"name":"inst_3DF3F0DC","path":"rooms/Room11_saida_vila/Room11_saida_vila.yy",},
+    {"name":"inst_5F88C32E","path":"rooms/Room11_saida_vila/Room11_saida_vila.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -27,6 +28,7 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"object_parede_prox_room_2","path":"objects/object_parede_prox_room_2/object_parede_prox_room_2.yy",},"propertyId":{"name":"proxima_room","path":"objects/object_parede_prox_room_2/object_parede_prox_room_2.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Room12_entrada_floresta_danger",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"object_parede_prox_room_2","path":"objects/object_parede_prox_room_2/object_parede_prox_room_2.yy",},"propertyId":{"name":"spawn_y","path":"objects/object_parede_prox_room_2/object_parede_prox_room_2.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"700",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":5.0,"x":1984.0,"y":480.0,},
+        {"$GMRInstance":"v4","%Name":"inst_5F88C32E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5F88C32E","objectId":{"name":"object_dialogo_room11","path":"objects/object_dialogo_room11/object_dialogo_room11.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":7.0,"scaleY":7.0,"x":1024.0,"y":352.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"sprite11_saida_vila","path":"sprites/sprite11_saida_vila/sprite11_saida_vila.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

@@ -70,3 +70,5 @@ mask_index = sprite_feiticeira_parada_total;
 
 image_xscale = 1.15;
 image_yscale = 1.15;
+
+audio_play_sound(feiticeira_risada, 1, false);

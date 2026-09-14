@@ -34,3 +34,6 @@ estado = "patrulhando";
 // Sprite inicial
 sprite_index = sprite_goblin_parado;
 image_speed = 0.15;
+
+som_goblin = audio_play_sound(goblins_falando, 1, true);
+audio_sound_gain(som_goblin, 0.35, 0);

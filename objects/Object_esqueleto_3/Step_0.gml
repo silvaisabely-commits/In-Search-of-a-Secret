@@ -212,10 +212,12 @@ switch (estado) {
         }
 
         if (image_index >= image_number - 1) {
-            instance_destroy();
-        }
 
-    break;
+    if (variable_instance_exists(id, "som_esqueleto")) {
+        audio_stop_sound(som_esqueleto);
+    }
+
+    instance_destroy();
 }
 
 
@@ -256,3 +258,4 @@ if (vel_y != 0) {
 }
 
 y += vel_y;
+}

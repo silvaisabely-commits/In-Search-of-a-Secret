@@ -29,7 +29,7 @@
     {"$GMObjectProperty":"v2","%Name":"proxima_room","filters":[],"listItems":[],"multiselect":false,"name":"proxima_room","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"noone","varType":4,},
     {"$GMObjectProperty":"v2","%Name":"spawn_x","filters":[],"listItems":[],"multiselect":false,"name":"spawn_x","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"180","varType":0,},
     {"$GMObjectProperty":"v2","%Name":"spawn_y","filters":[],"listItems":[],"multiselect":false,"name":"spawn_y","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"300","varType":0,},
-    {"$GMObjectProperty":"v2","%Name":"exige_inimigos_mortos","filters":[],"listItems":[],"multiselect":false,"name":"exige_inimigos_mortos","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
+    {"$GMObjectProperty":"v2","%Name":"exige_inimigos_mortos","filters":[],"listItems":[],"multiselect":false,"name":"exige_inimigos_mortos","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"True","varType":3,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

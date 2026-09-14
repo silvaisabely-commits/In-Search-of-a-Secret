@@ -1,3 +1,7 @@
+if (room == Room24_mission_completed) {
+    exit;
+}
+
 // =====================================
 // MORTE DO PLAYER
 // =====================================
@@ -160,6 +164,8 @@ if (keyboard_check_pressed(ord("E")) && !atacando) {
     sprite_index = sprite_assassino_ataque2;
     image_index = 0;
     image_speed = 1;
+
+    audio_play_sound(espada_cortante, 1, false);
 }
 
 

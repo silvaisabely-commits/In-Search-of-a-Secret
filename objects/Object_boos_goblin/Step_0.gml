@@ -164,7 +164,10 @@ switch (estado) {
         }
 
         if (image_index >= image_number - 1) {
-            instance_destroy();
+            if (variable_instance_exists(id, "som_boss_goblin")) {
+				audio_stop_sound(som_boss_goblin);
+			}
+			instance_destroy();
         }
 
     break;
