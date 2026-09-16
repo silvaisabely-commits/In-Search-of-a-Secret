@@ -27,7 +27,7 @@ switch (dialogo) {
 
     case 3:
         draw_text(200, 840, "ESQUELETO");
-        draw_text(200, 890, "O anel que voce carrega...");
+        draw_text(200, 890, "O objeto que voce procura...");
         draw_text(200, 925, "Nao entregue a ela.");
     break;
 
