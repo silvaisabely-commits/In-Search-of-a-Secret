@@ -73,7 +73,7 @@ if (falando) {
         case 8:
             draw_text(200, 840, "ASSASSINO");
             draw_text(200, 890, "Nao e problema meu.");
-            draw_text(200, 925, "Termino o trabalho e vou embora.");
+            draw_text(200, 925, "Vou terminar o meu trabalho e vou embora.");
         break;
 
     }

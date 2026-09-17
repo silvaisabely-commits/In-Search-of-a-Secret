@@ -1,4 +1,4 @@
-draw_text(20, 20, "Vida: " + string(vida));
+draw_text(20, 20, "vida: " + string(vida));
 
 if (tomando_dano) {
 
