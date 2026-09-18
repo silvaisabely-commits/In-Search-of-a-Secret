@@ -1,6 +1,6 @@
 var nova_musica = musica_floresta_exploracao;
 
-if (room == Room24_mission_completed) {
+if (room == Room25_mission_completed) {
 
     if (musica_atual != noone) {
         audio_stop_sound(musica_atual);
@@ -23,7 +23,7 @@ if (
 }
 
 // BOSS FINAL
-if (room == Room23_anel_confronto_final) {
+if (room == Room23_anel) {
     nova_musica = musica_boss;
 }
 

@@ -1,4 +1,4 @@
-if (room == Room24_mission_completed) {
+if (room == Room25_mission_completed) {
     exit;
 }
 
