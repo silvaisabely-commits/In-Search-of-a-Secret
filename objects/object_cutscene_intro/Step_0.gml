@@ -34,7 +34,16 @@ if (caracteres_visiveis < string_length(texto_atual)) {
         string_length(texto_atual)
     );
 }
+// =====================================
+// PULAR CUTSCENE INTEIRA
+// =====================================
 
+if (pode_avancar && keyboard_check_pressed(vk_escape)) {
+
+    cutscene_terminou = true;
+
+    room_goto(Room02_frente_cabana);
+}
 
 // =====================================
 // ESPAÇO

@@ -1,3 +1,6 @@
+if (falando) {
+    global.dialogo_aberto = true;
+}
 if (instance_exists(object_assassino)) {
 
     var jogador = instance_find(object_assassino, 0);

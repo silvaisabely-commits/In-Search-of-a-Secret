@@ -12,18 +12,18 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"cf91c61e-0955-4448-a5ac-a6a1886b4d0f","name":"cf91c61e-0955-4448-a5ac-a6a1886b4d0f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c9ec4e6b-42a9-44aa-8c8f-c1435772d386","name":"c9ec4e6b-42a9-44aa-8c8f-c1435772d386","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":1081,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"5780321e-da72-4808-ae67-9c9eb9caf052","blendMode":0,"displayName":"default","isLocked":false,"name":"5780321e-da72-4808-ae67-9c9eb9caf052","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"6a8d7aea-3d63-42d1-acb4-fd0111b6a88d","blendMode":0,"displayName":"default","isLocked":false,"name":"6a8d7aea-3d63-42d1-acb4-fd0111b6a88d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"sprite19_fortaleza1",
   "nineSlice":null,
-  "origin":0,
+  "origin":7,
   "parent":{
     "name":"aa_sprites_rooms",
     "path":"folders/sprites/aa_sprites_rooms.yy",
@@ -69,14 +69,14 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cf91c61e-0955-4448-a5ac-a6a1886b4d0f","path":"sprites/sprite19_fortaleza1/sprite19_fortaleza1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"5980861b-0c85-44dd-a7ec-fd3f2cafd8ee","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c9ec4e6b-42a9-44aa-8c8f-c1435772d386","path":"sprites/sprite19_fortaleza1/sprite19_fortaleza1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"051d8d0e-0a08-4f9f-a9fe-58c9eb2ed2f3","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "xorigin":960,
+    "yorigin":1081,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

@@ -14,8 +14,8 @@
   "exportDir":"",
   "name":"boos_goblin",
   "parent":{
-    "name":"In Search of a Secret",
-    "path":"In Search of a Secret.yyp",
+    "name":"trilha_sonora",
+    "path":"folders/trilha_sonora.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

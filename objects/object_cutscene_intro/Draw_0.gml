@@ -82,9 +82,18 @@ if (pode_avancar) {
     draw_set_halign(fa_right);
 
     draw_text_transformed(
-        1250,
+        1300,
         950,
         "[ESPACO]",
+        1.3,
+        1.3,
+        0
+    );
+
+    draw_text_transformed(
+        1550,
+        950,
+        "[ESC] PULAR",
         1.3,
         1.3,
         0

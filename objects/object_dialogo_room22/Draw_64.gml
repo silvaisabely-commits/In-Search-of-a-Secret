@@ -64,7 +64,8 @@ switch (dialogo) {
     break;
 }
 
-
+// INSTRUCAO
 // INSTRUCAO
 draw_set_color(c_ltgray);
-draw_text(1450, 960, "SPACE para continuar");
+draw_text(1300, 960, "SPACE para continuar");
+draw_text(1600, 960, "[ESC] PULAR");

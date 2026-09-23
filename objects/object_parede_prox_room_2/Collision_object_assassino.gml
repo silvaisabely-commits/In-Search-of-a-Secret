@@ -24,3 +24,6 @@ global.spawn_y = spawn_y;
 if (proxima_room != noone) {
     room_goto(proxima_room);
 }
+if (other.protegido_porta > 0) {
+    exit;
+}

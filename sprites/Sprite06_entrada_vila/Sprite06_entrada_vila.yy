@@ -4,7 +4,7 @@
   "bboxMode":0,
   "bbox_bottom":1080,
   "bbox_left":0,
-  "bbox_right":1920,
+  "bbox_right":1919,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,18 +12,18 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"0d9c76c6-6edc-4c6c-bd3b-93329bddfbe8","name":"0d9c76c6-6edc-4c6c-bd3b-93329bddfbe8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"263f23c2-f447-44d2-be65-ab71bb208b00","name":"263f23c2-f447-44d2-be65-ab71bb208b00","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":1081,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"9ed9d3dc-972a-467b-b3b1-8fd034340f7b","blendMode":0,"displayName":"default","isLocked":false,"name":"9ed9d3dc-972a-467b-b3b1-8fd034340f7b","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"35c3713f-c682-49dc-b269-e6f9d459ae4c","blendMode":0,"displayName":"default","isLocked":false,"name":"35c3713f-c682-49dc-b269-e6f9d459ae4c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"sprite06_entrada_vila",
   "nineSlice":null,
-  "origin":0,
+  "origin":7,
   "parent":{
     "name":"aa_sprites_rooms",
     "path":"folders/sprites/aa_sprites_rooms.yy",
@@ -69,14 +69,14 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0d9c76c6-6edc-4c6c-bd3b-93329bddfbe8","path":"sprites/sprite06_entrada_vila/sprite06_entrada_vila.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"620902f8-944f-4113-bf1a-40769f441b22","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"263f23c2-f447-44d2-be65-ab71bb208b00","path":"sprites/sprite06_entrada_vila/sprite06_entrada_vila.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"b99e6e5c-b72b-4ba2-bbd2-e8ea25bb937f","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "xorigin":960,
+    "yorigin":1081,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1921,
+  "width":1920,
 }

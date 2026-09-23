@@ -12,18 +12,18 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"fbd40638-d9a7-44dd-ab50-20989fecaddb","name":"fbd40638-d9a7-44dd-ab50-20989fecaddb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"93978ca1-d609-4594-a62a-6ff02938926a","name":"93978ca1-d609-4594-a62a-6ff02938926a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":1081,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"e8f44a3b-0d13-4bcd-92e8-cc1434573c52","blendMode":0,"displayName":"default","isLocked":false,"name":"e8f44a3b-0d13-4bcd-92e8-cc1434573c52","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"7470c788-b793-4021-ba6a-8c015a3504b7","blendMode":0,"displayName":"default","isLocked":false,"name":"7470c788-b793-4021-ba6a-8c015a3504b7","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"sprite16_ponte_meio",
   "nineSlice":null,
-  "origin":0,
+  "origin":7,
   "parent":{
     "name":"aa_sprites_rooms",
     "path":"folders/sprites/aa_sprites_rooms.yy",
@@ -69,14 +69,14 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fbd40638-d9a7-44dd-ab50-20989fecaddb","path":"sprites/sprite16_ponte_meio/sprite16_ponte_meio.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"6ee54a57-f273-43d6-bcf6-eb3d725100f8","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"93978ca1-d609-4594-a62a-6ff02938926a","path":"sprites/sprite16_ponte_meio/sprite16_ponte_meio.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"f4a6b0d6-c317-4f6c-9e7d-4e6982d1cf01","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "xorigin":960,
+    "yorigin":1081,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

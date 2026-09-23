@@ -2,11 +2,14 @@ if (room == Room25_mission_completed) {
     exit;
 }
 
+if (protegido_porta > 0) {
+    protegido_porta--;
+}
+
 // =====================================
 // MORTE DO PLAYER
 // =====================================
 
-// Começa a animação de morte
 if (vida <= 0 && !morrendo) {
 
     morrendo = true;
@@ -25,8 +28,6 @@ if (vida <= 0 && !morrendo) {
 }
 
 
-// Enquanto estiver morrendo,
-// não deixa executar movimento, ataque etc.
 if (morrendo) {
 
     vel_x = 0;
@@ -71,10 +72,61 @@ var no_chao = place_meeting(
 
 
 // =====================================
+// VERIFICA SE ALGUM DIÁLOGO ESTÁ ABERTO
+// =====================================
+
+global.dialogo_aberto = false;
+
+if (instance_exists(object_bardo) && object_bardo.falando) {
+    global.dialogo_aberto = true;
+}
+
+if (instance_exists(object_dialogo_room05) && object_dialogo_room05.mostrar) {
+    global.dialogo_aberto = true;
+}
+
+if (instance_exists(object_dialogo_room06) && object_dialogo_room06.mostrar) {
+    global.dialogo_aberto = true;
+}
+
+if (instance_exists(object_dialogo_room10) && object_dialogo_room10.mostrar) {
+    global.dialogo_aberto = true;
+}
+
+if (instance_exists(object_dialogo_room11) && object_dialogo_room11.mostrar) {
+    global.dialogo_aberto = true;
+}
+
+if (instance_exists(object_dialogo_room14) && object_dialogo_room14.mostrar) {
+    global.dialogo_aberto = true;
+}
+
+if (instance_exists(object_dialogo_room17) && object_dialogo_room17.mostrar) {
+    global.dialogo_aberto = true;
+}
+
+if (instance_exists(object_dialogo_room20) && object_dialogo_room20.mostrar) {
+    global.dialogo_aberto = true;
+}
+
+if (instance_exists(object_dialogo_room22) && object_dialogo_room22.mostrar) {
+    global.dialogo_aberto = true;
+}
+
+if (instance_exists(object_dialogo_room23) && object_dialogo_room23.mostrar) {
+    global.dialogo_aberto = true;
+}
+
+if (instance_exists(object_cutscene_intro)) {
+    global.dialogo_aberto = true;
+}
+
+
+// =====================================
 // PULO
 // =====================================
 
-if (keyboard_check_pressed(vk_space) && no_chao) {
+if (keyboard_check_pressed(vk_space) && no_chao && !global.dialogo_aberto) {
     vel_y = forca_pulo;
 }
 
@@ -184,9 +236,9 @@ else if (!no_chao) {
 
         sprite_index = sprite_assassino_pulando;
         image_index = 0;
-        image_speed = 0.15;
     }
 
+    image_speed = 0.5;
 }
 else if (vel_x != 0) {
 
@@ -215,7 +267,6 @@ else {
 
 if (atacando) {
 
-    // Golpe acerta no quadro 4
     if (image_index >= 3 && !ja_acertou) {
 
         var alcance_ataque = 100;
@@ -237,22 +288,17 @@ if (atacando) {
 
             if (distancia_alvo <= alcance_ataque) {
 
-                // Inimigo precisa estar na frente
                 if (
                     (image_xscale == 1 && alvo.x > x)
                     ||
                     (image_xscale == -1 && alvo.x < x)
                 ) {
 
-                    // Tira vida
                     alvo.vida -= dano;
 
-                    // Feedback visual
                     alvo.tomando_dano = true;
                     alvo.tempo_dano = 8;
 
-                    // Evita múltiplos danos
-                    // no mesmo ataque
                     ja_acertou = true;
                 }
             }
@@ -260,7 +306,6 @@ if (atacando) {
     }
 
 
-    // Finaliza a animação de ataque
     if (image_index >= image_number - 1) {
 
         atacando = false;
@@ -309,4 +354,8 @@ if (y > room_height + 100) {
 
     vel_x = 0;
     vel_y = 0;
+}
+// Conta o tempo do aviso na tela
+if (global.aviso_tempo > 0) {
+    global.aviso_tempo--;
 }

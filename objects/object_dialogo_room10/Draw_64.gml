@@ -1,4 +1,7 @@
 if (mostrar) {
+    global.dialogo_aberto = true;
+}
+if (mostrar) {
 
     draw_set_alpha(0.85);
     draw_set_color(c_black);

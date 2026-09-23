@@ -1,3 +1,4 @@
+global.dialogo_aberto = false;
 // =====================================
 // MOVIMENTO
 // =====================================
@@ -55,3 +56,14 @@ tempo_dano = 0;
 // =====================================
 
 morrendo = false;
+protegido_porta = 0;
+
+// Garante que a variável existe desde o início do jogo
+if (!variable_global_exists("tem_anel")) {
+    global.tem_anel = false;
+}
+
+if (!variable_global_exists("aviso_tempo")) {
+    global.aviso_tempo = 0;
+    global.aviso_texto = "";
+}

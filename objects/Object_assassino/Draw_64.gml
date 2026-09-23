@@ -88,3 +88,27 @@ draw_text(
 // =====================================
 
 draw_set_color(c_white);
+
+// Mostra o aviso de item coletado
+if (global.aviso_tempo > 0) {
+
+    draw_set_alpha(0.85);
+    draw_set_color(c_black);
+    draw_rectangle(700, 100, 1220, 160, false);
+
+    draw_set_alpha(1);
+    draw_set_color(c_yellow);
+    draw_set_halign(fa_center);
+
+    draw_text_transformed(
+        960,
+        115,
+        global.aviso_texto,
+        1.8,
+        1.8,
+        0
+    );
+
+    draw_set_halign(fa_left);
+    draw_set_color(c_white);
+}

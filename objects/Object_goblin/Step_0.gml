@@ -1,3 +1,4 @@
+show_debug_message("Estado: " + estado + " | Direcao: " + string(direcao) + " | X: " + string(x) + " | VelX: " + string(vel_x));
 event_inherited();
 
 // =====================================
@@ -13,6 +14,10 @@ var jogador = instance_nearest(x, y, object_assassino);
 
 vel_y += gravidade;
 vel_y = min(vel_y, velocidade_max_queda);
+
+if (temporizador_virada > 0) {
+    temporizador_virada--;
+}
 
 
 // =====================================
@@ -32,12 +37,28 @@ if (morrendo) {
 else if (distancia <= distancia_atacar) {
     estado = "atacando";
 }
+else if (estado == "correndo" && distancia <= distancia_desistir) {
+    // Já estava perseguindo: só desiste se passar da distância maior
+    estado = "correndo";
+}
 else if (distancia <= distancia_detectar) {
+    // Não estava perseguindo: só começa se ficar bem perto
     estado = "correndo";
 }
 else {
     estado = "patrulhando";
 }
+
+
+// =====================================
+// RESETA A PATRULHA AO VOLTAR DE PERSEGUIÇÃO
+// =====================================
+
+if (estado == "patrulhando" && estado_anterior != "patrulhando") {
+    x_inicial = x;
+}
+
+estado_anterior = estado;
 
 
 // =====================================
@@ -53,13 +74,18 @@ switch (estado) {
 
         vel_x = direcao * velocidade_andando;
 
-        if (x >= x_inicial + distancia_patrulha) {
-            direcao = -1;
-        }
+        if (temporizador_virada <= 0) {
 
-        if (x <= x_inicial - distancia_patrulha) {
-            direcao = 1;
-        }
+    if (x >= x_inicial + distancia_patrulha) {
+        direcao = -1;
+        temporizador_virada = 20;
+    }
+
+    if (x <= x_inicial - distancia_patrulha) {
+        direcao = 1;
+        temporizador_virada = 20;
+    }
+}
 
         image_xscale = direcao;
 
@@ -187,7 +213,11 @@ if (vel_x != 0) {
         }
 
         vel_x = 0;
-        direcao *= -1;
+
+        if (temporizador_virada <= 0) {
+            direcao *= -1;
+            temporizador_virada = 20;
+        }
     }
 }
 

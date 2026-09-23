@@ -1,3 +1,4 @@
+temporizador_virada = 0;
 event_inherited();
 
 // =====================================
@@ -16,11 +17,13 @@ velocidade_max_queda = 8;
 
 
 // Distâncias
-distancia_detectar = 180;
+distancia_detectar = 180;      // distância para COMEÇAR a perseguir
+distancia_desistir = 260;      // distância para PARAR de perseguir (maior, cria folga)
 distancia_atacar = 35;
 
 
 // Patrulha
+estado_anterior = "patrulhando";
 x_inicial = x;
 distancia_patrulha = 120;
 

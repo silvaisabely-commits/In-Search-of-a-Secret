@@ -8,7 +8,7 @@ if (mostrar) {
     draw_set_color(c_white);
 
     draw_text(200, 840, "ASSASSINO");
-    draw_text(200, 890, "Ouco mais esqueletos a frente...");
+    draw_text(200, 890, "Mais esqueletos a frente...");
     draw_text(200, 925, "Parece que ainda nao terminei.");
 
     draw_set_color(c_ltgray);

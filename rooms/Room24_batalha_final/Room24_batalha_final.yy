@@ -10,17 +10,21 @@
     {"name":"inst_10D2FC8D","path":"rooms/Room24_batalha_final/Room24_batalha_final.yy",},
     {"name":"inst_4703A486","path":"rooms/Room24_batalha_final/Room24_batalha_final.yy",},
     {"name":"inst_26E33018","path":"rooms/Room24_batalha_final/Room24_batalha_final.yy",},
+    {"name":"inst_70302451","path":"rooms/Room24_batalha_final/Room24_batalha_final.yy",},
+    {"name":"inst_6CE4F9C0","path":"rooms/Room24_batalha_final/Room24_batalha_final.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_437955AF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_437955AF","objectId":{"name":"object_feiticeira_poder_total","path":"objects/object_feiticeira_poder_total/object_feiticeira_poder_total.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1019.0,"y":519.0,},
-        {"$GMRInstance":"v4","%Name":"inst_10D2FC8D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_10D2FC8D","objectId":{"name":"object_chao","path":"objects/object_chao/object_chao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":21.34375,"scaleY":1.0,"x":683.0,"y":736.0,},
+        {"$GMRInstance":"v4","%Name":"inst_437955AF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_437955AF","objectId":{"name":"object_feiticeira_poder_total","path":"objects/object_feiticeira_poder_total/object_feiticeira_poder_total.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1355.0,"y":398.0,},
+        {"$GMRInstance":"v4","%Name":"inst_10D2FC8D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_10D2FC8D","objectId":{"name":"object_chao","path":"objects/object_chao/object_chao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":31.0,"scaleY":1.0,"x":928.0,"y":736.0,},
         {"$GMRInstance":"v4","%Name":"inst_4703A486","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4703A486","objectId":{"name":"object_chao","path":"objects/object_chao/object_chao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":11.0,"x":-32.0,"y":352.0,},
         {"$GMRInstance":"v4","%Name":"inst_26E33018","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_26E33018","objectId":{"name":"object_parede_prox_room_2","path":"objects/object_parede_prox_room_2/object_parede_prox_room_2.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"object_parede_prox_room_2","path":"objects/object_parede_prox_room_2/object_parede_prox_room_2.yy",},"propertyId":{"name":"proxima_room","path":"objects/object_parede_prox_room_2/object_parede_prox_room_2.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Room25_mission_completed",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"object_parede_prox_room_2","path":"objects/object_parede_prox_room_2/object_parede_prox_room_2.yy",},"propertyId":{"name":"exige_inimigos_mortos","path":"objects/object_parede_prox_room_2/object_parede_prox_room_2.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"False",},
-          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.171875,"scaleY":11.0,"x":1403.5,"y":352.0,},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.171875,"scaleY":11.0,"x":1882.5,"y":352.0,},
+        {"$GMRInstance":"v4","%Name":"inst_70302451","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_70302451","objectId":{"name":"object_chao","path":"objects/object_chao/object_chao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":31.0,"scaleY":1.0,"x":928.0,"y":-32.0,},
+        {"$GMRInstance":"v4","%Name":"inst_6CE4F9C0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6CE4F9C0","objectId":{"name":"object_dialogo_room23","path":"objects/object_dialogo_room23/object_dialogo_room23.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":7.9062495,"scaleY":7.9062495,"x":896.75,"y":288.75,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Sprite24_batalha_final","path":"sprites/Sprite24_batalha_final/Sprite24_batalha_final.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
@@ -40,10 +44,10 @@
   "resourceType":"GMRoom",
   "resourceVersion":"2.0",
   "roomSettings":{
-    "Height":768,
+    "Height":1080,
     "inheritRoomSettings":false,
     "persistent":false,
-    "Width":1366,
+    "Width":1920,
   },
   "sequenceId":null,
   "views":[

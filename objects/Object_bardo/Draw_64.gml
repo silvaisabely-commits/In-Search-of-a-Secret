@@ -7,8 +7,24 @@ var distancia = point_distance(x, y, jogador.x, jogador.y);
 // AVISO PARA INTERAGIR
 if (distancia < 120 && !falando) {
 
+    draw_set_alpha(0.85);
+    draw_set_color(c_black);
+    draw_rectangle(150, 800, 1770, 860, false);
+
+    draw_set_alpha(1);
     draw_set_color(c_white);
-    draw_text(820, 720, "Pressione Q para conversar");
+    draw_set_halign(fa_center);
+
+    draw_text_transformed(
+        960,
+        820,
+        "Pressione Q para conversar",
+        1.6,
+        1.6,
+        0
+    );
+
+    draw_set_halign(fa_left);
 }
 
 

@@ -55,5 +55,6 @@ if (mostrar) {
     }
 
     draw_set_color(c_ltgray);
-    draw_text(1450, 970, "SPACE para continuar");
+draw_text(1300, 970, "SPACE para continuar");
+draw_text(1600, 970, "[ESC] PULAR");
 }
